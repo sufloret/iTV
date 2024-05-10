@@ -57,7 +57,7 @@ rtp://239.69.1.206:10878
 rtp://239.69.1.205:10872
 #EXTINF:-1 tvg-id="38" tvg-name="中国交通" tvg-logo="https://live.puellulae.top/signs/中国交通.png" group-title="专业",中国交通HD
 rtp://239.69.2.3:11172
-#EXTINF:-1 tvg-id="39" tvg-name="央广购物" tvg-logo="https://live.puellulae.top/signs/央广购物.png" group-title="专业",央广购物
+#EXTINF:-1 tvg-id="39" tvg-name="央广购物" tvg-logo="https://live.puellulae.top/signs/央广购物.png" group-title="专业",央广购物HD
 rtp://239.69.2.1:11160
 #EXTINF:-1 tvg-id="40" tvg-name="家有购物" tvg-logo="https://live.puellulae.top/signs/家有购物.png" group-title="专业",家有购物
 rtp://239.69.2.2:11166
