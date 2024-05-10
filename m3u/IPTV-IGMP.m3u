@@ -55,6 +55,8 @@ rtp://239.69.1.204:10866
 rtp://239.69.1.206:10878
 #EXTINF:-1 tvg-id="28" tvg-name="湖北生活" tvg-logo="https://live.puellulae.top/signs/湖北生活.png" group-title="湖北",湖北生活HD
 rtp://239.69.1.205:10872
+#EXTINF:-1 tvg-id="38" tvg-name="中国交通" tvg-logo="https://live.puellulae.top/signs/中国交通.png" group-title="专业",中国交通HD
+rtp://239.69.2.3:11172
 #EXTINF:-1 tvg-id="39" tvg-name="央广购物" tvg-logo="https://live.puellulae.top/signs/央广购物.png" group-title="专业",央广购物
 rtp://239.69.2.1:11160
 #EXTINF:-1 tvg-id="40" tvg-name="家有购物" tvg-logo="https://live.puellulae.top/signs/家有购物.png" group-title="专业",家有购物
@@ -253,10 +255,8 @@ rtp://239.69.1.228:11010
 rtp://239.69.1.127:10400
 #EXTINF:-1 tvg-id="220" tvg-name="环球奇观" tvg-logo="https://live.puellulae.top/signs/环球奇观.png" group-title="专业",环球奇观
 rtp://239.253.152.192:9232
-#EXTINF:-1 tvg-id="221" tvg-name="国学" tvg-logo="https://live.puellulae.top/signs/国学.png" group-title="专业",国学
+#EXTINF:-1 tvg-id="221" tvg-name="国学频道" tvg-logo="https://live.puellulae.top/signs/国学.png" group-title="专业",国学频道
 rtp://239.253.152.194:9244
-#EXTINF:-1 tvg-id="227" tvg-name="卫生健康" tvg-logo="https://live.puellulae.top/signs/卫生健康.png" group-title="专业",卫生健康
-rtp://239.253.152.207:9322
 #EXTINF:-1 tvg-id="230" tvg-name="财富天下" tvg-logo="https://live.puellulae.top/signs/财富天下.png" group-title="专业",财富天下
 rtp://239.253.152.210:9340
 #EXTINF:-1 tvg-id="303" tvg-name="怀旧剧场" tvg-logo="https://live.puellulae.top/signs/怀旧剧场.png" group-title="付费",怀旧剧场
@@ -277,7 +277,7 @@ rtp://239.69.1.85:10150
 rtp://239.69.1.79:10114
 #EXTINF:-1 tvg-id="312" tvg-name="茶" tvg-logo="https://live.puellulae.top/signs/茶.png" group-title="付费",茶HD
 rtp://239.69.1.144:10500
-#EXTINF:-1 tvg-id="313" tvg-name="CHC高清电影" tvg-logo="https://live.puellulae.top/signs/CHC高清电影.png" group-title="付费",CHC高清电影HD
+#EXTINF:-1 tvg-id="313" tvg-name="CHC影迷电影" tvg-logo="https://live.puellulae.top/signs/CHC影迷电影.png" group-title="付费",CHC影迷电影HD
 rtp://239.69.1.241:11088
 #EXTINF:-1 tvg-id="314" tvg-name="CHC动作电影" tvg-logo="https://live.puellulae.top/signs/CHC动作电影.png" group-title="付费",CHC动作电影HD
 rtp://239.69.1.242:11094
