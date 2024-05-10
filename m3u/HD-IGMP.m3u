@@ -55,6 +55,8 @@ rtp://239.69.1.204:10866
 rtp://239.69.1.206:10878
 #EXTINF:-1 tvg-id="28" tvg-name="湖北生活" tvg-logo="https://live.puellulae.top/signs/湖北生活.png" group-title="高清频道",湖北生活HD
 rtp://239.69.1.205:10872
+#EXTINF:-1 tvg-id="38" tvg-name="中国交通" tvg-logo="https://live.puellulae.top/signs/中国交通.png" group-title="高清频道",中国交通HD
+rtp://239.69.2.3:11172
 #EXTINF:-1 tvg-id="41" tvg-name="湖南卫视" tvg-logo="https://live.puellulae.top/signs/湖南卫视.png" group-title="高清频道",湖南卫视HD
 rtp://239.253.152.139:8908
 #EXTINF:-1 tvg-id="42" tvg-name="浙江卫" tvg-logo="https://live.puellulae.top/signs/浙江卫视.png" group-title="高清频道",浙江卫视HD
@@ -133,7 +135,7 @@ rtp://239.69.1.81:10126
 rtp://239.69.1.79:10114
 #EXTINF:-1 tvg-id="312" tvg-name="茶" tvg-logo="https://live.puellulae.top/signs/茶.png" group-title="高清频道",茶HD
 rtp://239.69.1.144:10500
-#EXTINF:-1 tvg-id="313" tvg-name="CHC高清电影" tvg-logo="https://live.puellulae.top/signs/CHC高清电影.png" group-title="高清频道",CHC高清电影HD
+#EXTINF:-1 tvg-id="313" tvg-name="CHC影迷电影" tvg-logo="https://live.puellulae.top/signs/CHC影迷电影.png" group-title="高清频道",CHC影迷电影HD
 rtp://239.69.1.241:11088
 #EXTINF:-1 tvg-id="314" tvg-name="CHC动作电影" tvg-logo="https://live.puellulae.top/signs/CHC动作电影.png" group-title="高清频道",CHC动作电影HD
 rtp://239.69.1.242:11094
