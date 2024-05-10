@@ -1,7 +1,7 @@
 <h1 align="center"> [✯ IPTV自用仓库 ✯] </h1>
 <h3> 宜昌电信IPTV </h3>
 
-| 类 别  | 调用路径                                                                           | 
+| 组播  | 调用路径                                                                           | 
 |-------|-------------------------------------------------------------------------------------|
-| 组播  | [https://live.puellulae.top/m3u/{组播名称}.m3u](https://github.com/puellulae/itv/tree/main/m3u) |
-| 台标  | [https://live.puellulae.top/signs/{频道名称}.png](https://github.com/puellulae/itv/tree/main/signs) | 
+| 高清频道  | [https://live.puellulae.top/m3u/HD-IGMP.m3u](https://github.com/puellulae/itv/tree/main/m3u) |
+| 全部频道  | [https://live.puellulae.top/m3u/IPTV-IGMP.m3u](https://github.com/puellulae/itv/tree/main/m3u) | 
