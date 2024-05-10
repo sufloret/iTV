@@ -1,2 +1,2 @@
-✯[自用图标仓库](https://github.com/puellulae/iTV/tree/main)✯
+✯[宜昌电信IPTV自用仓库](https://github.com/puellulae/iTV/tree/main)✯
 =============================================================
