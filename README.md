@@ -4,4 +4,4 @@
 | 类 别  | 调用路径                                                                           | 
 |-------|-------------------------------------------------------------------------------------|
 | 组播  | [https://live.puellulae.top/m3u/{组播名称}.m3u](https://github.com/puellulae/itv/tree/main/m3u) |
-| 台标  | [https://live.puellulae.top/sign/{频道名称}.png](https://github.com/puellulae/itv/tree/main/signs) | 
+| 台标  | [https://live.puellulae.top/signs/{频道名称}.png](https://github.com/puellulae/itv/tree/main/signs) | 
