@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.puellulae.top/signs/CCTV1.png" group-title="高清频道",CCTV-1HD
 rtp://239.253.152.96:8550
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.puellulae.top/signs/CCTV2.png" group-title="高清频道",CCTV-2HD
@@ -59,7 +59,7 @@ rtp://239.69.1.205:10872
 rtp://239.69.2.3:11172
 #EXTINF:-1 tvg-id="41" tvg-name="湖南卫视" tvg-logo="https://live.puellulae.top/signs/湖南卫视.png" group-title="高清频道",湖南卫视HD
 rtp://239.253.152.139:8908
-#EXTINF:-1 tvg-id="42" tvg-name="浙江卫" tvg-logo="https://live.puellulae.top/signs/浙江卫视.png" group-title="高清频道",浙江卫视HD
+#EXTINF:-1 tvg-id="42" tvg-name="浙江卫视" tvg-logo="https://live.puellulae.top/signs/浙江卫视.png" group-title="高清频道",浙江卫视HD
 rtp://239.253.152.143:8932
 #EXTINF:-1 tvg-id="43" tvg-name="江苏卫视" tvg-logo="https://live.puellulae.top/signs/江苏卫视.png" group-title="高清频道",江苏卫视HD
 rtp://239.253.152.144:8938
@@ -127,6 +127,10 @@ rtp://239.69.1.222:10974
 rtp://239.253.152.175:9124
 #EXTINF:-1 tvg-id="98" tvg-name="江苏卫视" tvg-logo="https://live.puellulae.top/signs/江苏卫视.png" group-title="高清频道",江苏卫视FHD
 rtp://239.69.1.174:10680
+#EXTINF:-1 tvg-id="303" tvg-name="怀旧剧场" tvg-logo="https://live.puellulae.top/signs/怀旧剧场.png" group-title="高清频道",怀旧剧场
+rtp://239.69.1.89:10174
+#EXTINF:-1 tvg-id="305" tvg-name="风云音乐" tvg-logo="https://live.puellulae.top/signs/风云音乐.png" group-title="高清频道",风云音乐
+rtp://239.69.1.90:10180
 #EXTINF:-1 tvg-id="306" tvg-name="快乐垂钓" tvg-logo="https://live.puellulae.top/signs/快乐垂钓.png" group-title="高清频道",快乐垂钓HD
 rtp://239.69.1.142:10488
 #EXTINF:-1 tvg-id="308" tvg-name="风云足球" tvg-logo="https://live.puellulae.top/signs/风云足球.png" group-title="高清频道",风云足球HD
@@ -153,8 +157,10 @@ rtp://239.69.1.46:9916
 rtp://239.69.1.47:9922
 #EXTINF:-1 tvg-id="341" tvg-name="第一剧场" tvg-logo="https://live.puellulae.top/signs/第一剧场.png" group-title="高清频道",第一剧场HD
 rtp://239.69.1.74:10084
-#EXTINF:-1 tvg-id="344" tvg-name="高清频道台球" tvg-logo="https://live.puellulae.top/signs/央视台球.png" group-title="高清频道",央视台球HD
+#EXTINF:-1 tvg-id="344" tvg-name="央视台球" tvg-logo="https://live.puellulae.top/signs/央视台球.png" group-title="高清频道",央视台球HD
 rtp://239.69.1.98:10224
+#EXTINF:-1 tvg-id="348" tvg-name="女性时尚" tvg-logo="https://live.puellulae.top/signs/女性时尚.png" group-title="高清频道",女性时尚
+rtp://239.69.1.86:10156
 #EXTINF:-1 tvg-id="524" tvg-name="宜昌综合" tvg-logo="https://live.puellulae.top/signs/宜昌综合.png" group-title="高清频道",宜昌综合HD
 rtp://239.69.1.67:10042
 #EXTINF:-1 tvg-id="525" tvg-name="宜昌旅游生活" tvg-logo="https://live.puellulae.top/signs/宜昌旅游生活.png" group-title="高清频道",宜昌旅游生活HD
