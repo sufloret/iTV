@@ -85,6 +85,10 @@ rtp://239.253.152.13:8052
 rtp://239.253.152.7:8016
 #EXTINF:-1 tvg-id="117" tvg-name="CCTV17" tvg-logo="https://live.puellulae.top/signs/CCTV17.png" group-title="央视",CCTV-17
 rtp://239.69.1.153:10554
+#EXTINF:-1 tvg-id="176" tvg-name="中国教育2台" tvg-logo="https://live.puellulae.top/signs/CETV2.png" group-title="央视",中国教育-2
+rtp://239.69.1.183:10734
+#EXTINF:-1 tvg-id="177" tvg-name="中国教育4台" tvg-logo="https://live.puellulae.top/signs/CETV4.png" group-title="央视",中国教育-4
+rtp://239.69.1.175:10686
 #EXTINF:-1 tvg-id="21" tvg-name="湖北卫视" tvg-logo="https://live.puellulae.top/signs/湖北卫视.png" group-title="湖北",湖北卫视HD
 rtp://239.253.152.115:8664
 #EXTINF:-1 tvg-id="22" tvg-name="湖北经视" tvg-logo="https://live.puellulae.top/signs/湖北经视.png" group-title="湖北",湖北经视HD
@@ -251,10 +255,6 @@ rtp://239.253.152.188:9208
 rtp://239.253.152.189:9214
 #EXTINF:-1 tvg-id="175" tvg-name="三沙卫视" tvg-logo="https://live.puellulae.top/signs/三沙卫视.png" group-title="卫视",三沙卫视
 rtp://239.69.1.171:10662
-#EXTINF:-1 tvg-id="176" tvg-name="中国教育2台" tvg-logo="https://live.puellulae.top/signs/CETV2.png" group-title="卫视",中国教育-2
-rtp://239.69.1.183:10734
-#EXTINF:-1 tvg-id="177" tvg-name="中国教育4台" tvg-logo="https://live.puellulae.top/signs/CETV4.png" group-title="卫视",中国教育-4
-rtp://239.69.1.175:10686
 #EXTINF:-1 tvg-id="178" tvg-name="山东教育卫视" tvg-logo="https://live.puellulae.top/signs/山东教育卫视.png" group-title="卫视",山东教育卫视
 rtp://239.69.1.228:11010
 #EXTINF:-1 tvg-id="179" tvg-name="厦门卫视" tvg-logo="https://live.puellulae.top/signs/厦门卫视.png" group-title="卫视",厦门卫视
