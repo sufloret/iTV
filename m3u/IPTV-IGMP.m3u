@@ -131,6 +131,8 @@ rtp://239.69.1.222:10974
 rtp://239.253.152.175:9124
 #EXTINF:-1 tvg-id="98" tvg-name="江苏卫视" tvg-logo="https://live.puellulae.top/signs/江苏卫视.png" group-title="卫视",江苏卫视FHD
 rtp://239.69.1.174:10680
+#EXTINF:-1 tvg-id="99" tvg-name="东方卫视" tvg-logo="https://live.puellulae.top/signs/东方卫视.png" group-title="卫视",东方卫视FHD
+rtp://239.69.1.173:10674
 #EXTINF:-1 tvg-id="101" tvg-name="CCTV1" tvg-logo="https://live.puellulae.top/signs/CCTV1.png" group-title="央视",CCTV-1
 rtp://239.253.152.3:7992
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV2" tvg-logo="https://live.puellulae.top/signs/CCTV2.png" group-title="央视",CCTV-2
