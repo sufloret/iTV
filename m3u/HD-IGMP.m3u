@@ -127,6 +127,8 @@ rtp://239.69.1.222:10974
 rtp://239.253.152.175:9124
 #EXTINF:-1 tvg-id="98" tvg-name="江苏卫视" tvg-logo="https://live.puellulae.top/signs/江苏卫视.png" group-title="高清频道",江苏卫视FHD
 rtp://239.69.1.174:10680
+#EXTINF:-1 tvg-id="99" tvg-name="东方卫视" tvg-logo="https://live.puellulae.top/signs/东方卫视.png" group-title="高清频道",东方卫视FHD
+rtp://239.69.1.173:10674
 #EXTINF:-1 tvg-id="303" tvg-name="怀旧剧场" tvg-logo="https://live.puellulae.top/signs/怀旧剧场.png" group-title="高清频道",怀旧剧场
 rtp://239.69.1.89:10174
 #EXTINF:-1 tvg-id="305" tvg-name="风云音乐" tvg-logo="https://live.puellulae.top/signs/风云音乐.png" group-title="高清频道",风云音乐
