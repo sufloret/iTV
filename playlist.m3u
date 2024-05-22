@@ -1,170 +1,337 @@
-﻿#EXTM3U #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.puellulae.top/signs/CCTV1.png" group-title="高清频道",CCTV-1HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.96:8550
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.puellulae.top/signs/CCTV2.png" group-title="高清频道",CCTV-2HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.102:10250
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://live.puellulae.top/signs/CCTV3.png" group-title="高清频道",CCTV-3HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.122:10370
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://live.puellulae.top/signs/CCTV4.png" group-title="高清频道",CCTV-4HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.138:10466
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://live.puellulae.top/signs/CCTV5.png" group-title="高清频道",CCTV-5HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.123:10376
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="https://live.puellulae.top/signs/CCTV6.png" group-title="高清频道",CCTV-6HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.124:10382
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="https://live.puellulae.top/signs/CCTV7.png" group-title="高清频道",CCTV-7HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.103:10256
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="https://live.puellulae.top/signs/CCTV8.png" group-title="高清频道",CCTV-8HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.125:10388
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="https://live.puellulae.top/signs/CCTV9.png" group-title="高清频道",CCTV-9HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.104:10262
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="https://live.puellulae.top/signs/CCTV10.png" group-title="高清频道",CCTV-10HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.105:10268
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV11" tvg-logo="https://live.puellulae.top/signs/CCTV11.png" group-title="高清频道",CCTV-11HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.154:10560
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="https://live.puellulae.top/signs/CCTV12.png" group-title="高清频道",CCTV-12HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.106:10274
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://live.puellulae.top/signs/CCTV13.png" group-title="高清频道",CCTV-13HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.161:9040
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="https://live.puellulae.top/signs/CCTV14.png" group-title="高清频道",CCTV-14HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.107:10280
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="https://live.puellulae.top/signs/CCTV15.png" group-title="高清频道",CCTV-15HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.155:10566
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="https://live.puellulae.top/signs/CCTV16.png" group-title="高清频道",CCTV-16HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.247:11124
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://live.puellulae.top/signs/CCTV17.png" group-title="高清频道",CCTV-17HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.152:10548
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV5+" tvg-logo="https://live.puellulae.top/signs/CCTV5+.png" group-title="高清频道",CCTV-5+HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.234:9484
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="https://live.puellulae.top/signs/CCTV4K.png" group-title="高清频道",CCTV-4K
-http://udpxy.puellulae.top:4022/rtp/239.69.1.111:10304
-#EXTINF:-1 tvg-id="20" tvg-name="CCTV16" tvg-logo="https://live.puellulae.top/signs/CCTV16.png" group-title="高清频道",CCTV16-4K
-http://udpxy.puellulae.top:4022/rtp/239.69.1.249:11136
-#EXTINF:-1 tvg-id="21" tvg-name="湖北卫视" tvg-logo="https://live.puellulae.top/signs/湖北卫视.png" group-title="高清频道",湖北卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.115:8664
-#EXTINF:-1 tvg-id="22" tvg-name="湖北经视" tvg-logo="https://live.puellulae.top/signs/湖北经视.png" group-title="高清频道",湖北经视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.41:9886
-#EXTINF:-1 tvg-id="23" tvg-name="湖北综合" tvg-logo="https://live.puellulae.top/signs/湖北综合.png" group-title="高清频道",湖北综合HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.42:9892
-#EXTINF:-1 tvg-id="24" tvg-name="湖北垄上" tvg-logo="https://live.puellulae.top/signs/湖北垄上.png" group-title="高清频道",湖北垄上HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.43:9898
-#EXTINF:-1 tvg-id="25" tvg-name="湖北公共" tvg-logo="https://live.puellulae.top/signs/湖北公共.png" group-title="高清频道",湖北公共HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.40:9880
-#EXTINF:-1 tvg-id="26" tvg-name="湖北影视" tvg-logo="https://live.puellulae.top/signs/湖北影视.png" group-title="高清频道",湖北影视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.204:10866
-#EXTINF:-1 tvg-id="27" tvg-name="湖北教育" tvg-logo="https://live.puellulae.top/signs/湖北教育.png" group-title="高清频道",湖北教育HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.206:10878
-#EXTINF:-1 tvg-id="28" tvg-name="湖北生活" tvg-logo="https://live.puellulae.top/signs/湖北生活.png" group-title="高清频道",湖北生活HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.205:10872
-#EXTINF:-1 tvg-id="38" tvg-name="中国交通" tvg-logo="https://live.puellulae.top/signs/中国交通.png" group-title="高清频道",中国交通HD
-http://udpxy.puellulae.top:4022/rtp/239.69.2.3:11172
-#EXTINF:-1 tvg-id="41" tvg-name="湖南卫视" tvg-logo="https://live.puellulae.top/signs/湖南卫视.png" group-title="高清频道",湖南卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.139:8908
-#EXTINF:-1 tvg-id="42" tvg-name="浙江卫视" tvg-logo="https://live.puellulae.top/signs/浙江卫视.png" group-title="高清频道",浙江卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.143:8932
-#EXTINF:-1 tvg-id="43" tvg-name="江苏卫视" tvg-logo="https://live.puellulae.top/signs/江苏卫视.png" group-title="高清频道",江苏卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.144:8938
-#EXTINF:-1 tvg-id="44" tvg-name="东方卫视" tvg-logo="https://live.puellulae.top/signs/东方卫视.png" group-title="高清频道",东方卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.142:8926
-#EXTINF:-1 tvg-id="45" tvg-name="北京卫视" tvg-logo="https://live.puellulae.top/signs/北京卫视.png" group-title="高清频道",北京卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.141:8920
-#EXTINF:-1 tvg-id="46" tvg-name="广东卫视" tvg-logo="https://live.puellulae.top/signs/广东卫视.png" group-title="高清频道",广东卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.140:8914
-#EXTINF:-1 tvg-id="47" tvg-name="深圳卫视" tvg-logo="https://live.puellulae.top/signs/深圳卫视.png" group-title="高清频道",深圳卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.137:8896
-#EXTINF:-1 tvg-id="48" tvg-name="黑龙江卫视" tvg-logo="https://live.puellulae.top/signs/黑龙江卫视.png" group-title="高清频道",黑龙江卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.138:8902
-#EXTINF:-1 tvg-id="49" tvg-name="天津卫视" tvg-logo="https://live.puellulae.top/signs/天津卫视.png" group-title="高清频道",天津卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.68:10048
-#EXTINF:-1 tvg-id="50" tvg-name="山东卫视" tvg-logo="https://live.puellulae.top/signs/山东卫视.png" group-title="高清频道",山东卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.69:10054
-#EXTINF:-1 tvg-id="51" tvg-name="安徽卫视" tvg-logo="https://live.puellulae.top/signs/安徽卫视.png" group-title="高清频道",安徽卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.70:10060
-#EXTINF:-1 tvg-id="52" tvg-name="辽宁卫视" tvg-logo="https://live.puellulae.top/signs/辽宁卫视.png" group-title="高清频道",辽宁卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.71:10066
-#EXTINF:-1 tvg-id="53" tvg-name="东南卫视" tvg-logo="https://live.puellulae.top/signs/东南卫视.png" group-title="高清频道",东南卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.108:10286
-#EXTINF:-1 tvg-id="54" tvg-name="江西卫视" tvg-logo="https://live.puellulae.top/signs/江西卫视.png" group-title="高清频道",江西卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.126:10394
-#EXTINF:-1 tvg-id="55" tvg-name="重庆卫视" tvg-logo="https://live.puellulae.top/signs/重庆卫视.png" group-title="高清频道",重庆卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.149:10530
-#EXTINF:-1 tvg-id="56" tvg-name="贵州卫视" tvg-logo="https://live.puellulae.top/signs/贵州卫视.png" group-title="高清频道",贵州卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.150:10536
-#EXTINF:-1 tvg-id="57" tvg-name="河南卫视" tvg-logo="https://live.puellulae.top/signs/河南卫视.png" group-title="高清频道",河南卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.168:10644
-#EXTINF:-1 tvg-id="58" tvg-name="四川卫视" tvg-logo="https://live.puellulae.top/signs/四川卫视.png" group-title="高清频道",四川卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.169:10650
-#EXTINF:-1 tvg-id="59" tvg-name="河北卫视" tvg-logo="https://live.puellulae.top/signs/河北卫视.png" group-title="高清频道",河北卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.157:10578
-#EXTINF:-1 tvg-id="60" tvg-name="海南卫视" tvg-logo="https://live.puellulae.top/signs/海南卫视.png" group-title="高清频道",海南卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.151:10542
-#EXTINF:-1 tvg-id="61" tvg-name="广西卫视" tvg-logo="https://live.puellulae.top/signs/广西卫视.png" group-title="高清频道",广西卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.191:10788
-#EXTINF:-1 tvg-id="62" tvg-name="吉林卫视" tvg-logo="https://live.puellulae.top/signs/吉林卫视.png" group-title="高清频道",吉林卫视HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.212:10914
-#EXTINF:-1 tvg-id="72" tvg-name="卡酷少儿" tvg-logo="https://live.puellulae.top/signs/卡酷少儿.png" group-title="高清频道",卡酷少儿HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.193:10800
-#EXTINF:-1 tvg-id="73" tvg-name="金鹰卡通" tvg-logo="https://live.puellulae.top/signs/金鹰卡通.png" group-title="高清频道",金鹰卡通HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.248:11130
-#EXTINF:-1 tvg-id="74" tvg-name="金鹰纪实" tvg-logo="https://live.puellulae.top/signs/金鹰纪实.png" group-title="高清频道",金鹰纪实HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.109:10292
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育1台" tvg-logo="https://live.puellulae.top/signs/CETV1.png" group-title="高清频道",中国教育-1HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.110:10298
-#EXTINF:-1 tvg-id="90" tvg-name="CCTV4欧洲" tvg-logo="https://live.puellulae.top/signs/CCTV4欧洲.png" group-title="高清频道",CCTV4中文国际欧洲HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.231:11028
-#EXTINF:-1 tvg-id="91" tvg-name="CCTV4美洲" tvg-logo="https://live.puellulae.top/signs/CCTV4美洲.png" group-title="高清频道",CCTV4中文国际美洲HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.232:11034
-#EXTINF:-1 tvg-id="92" tvg-name="CGTNDoc" tvg-logo="https://live.puellulae.top/signs/CGTNDoc.png" group-title="高清频道",CGTN英文纪录HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.233:11040
-#EXTINF:-1 tvg-id="93" tvg-name="CGTN西语" tvg-logo="https://live.puellulae.top/signs/CGTN西语.png" group-title="高清频道",CGTN西班牙语HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.234:11046
-#EXTINF:-1 tvg-id="94" tvg-name="CGTN法语" tvg-logo="https://live.puellulae.top/signs/CGTN法语.png" group-title="高清频道",CGTN法语HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.235:11052
-#EXTINF:-1 tvg-id="95" tvg-name="CGTN阿语" tvg-logo="https://live.puellulae.top/signs/CGTN阿语.png" group-title="高清频道",CGTN阿拉伯语HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.221:10968
-#EXTINF:-1 tvg-id="96" tvg-name="CGTN俄语" tvg-logo="https://live.puellulae.top/signs/CGTN俄语.png" group-title="高清频道",CGTN俄语HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.222:10974
-#EXTINF:-1 tvg-id="97" tvg-name="CGTN" tvg-logo="https://live.puellulae.top/signs/CGTN.png" group-title="高清频道",CGTN英语HD
-http://udpxy.puellulae.top:4022/rtp/239.253.152.175:9124
-#EXTINF:-1 tvg-id="98" tvg-name="江苏卫视" tvg-logo="https://live.puellulae.top/signs/江苏卫视.png" group-title="高清频道",江苏卫视FHD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.174:10680
-#EXTINF:-1 tvg-id="99" tvg-name="东方卫视" tvg-logo="https://live.puellulae.top/signs/东方卫视.png" group-title="高清频道",东方卫视FHD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.173:10674
-#EXTINF:-1 tvg-id="303" tvg-name="怀旧剧场" tvg-logo="https://live.puellulae.top/signs/怀旧剧场.png" group-title="高清频道",怀旧剧场
-http://udpxy.puellulae.top:4022/rtp/239.69.1.89:10174
-#EXTINF:-1 tvg-id="305" tvg-name="风云音乐" tvg-logo="https://live.puellulae.top/signs/风云音乐.png" group-title="高清频道",风云音乐
-http://udpxy.puellulae.top:4022/rtp/239.69.1.90:10180
-#EXTINF:-1 tvg-id="306" tvg-name="快乐垂钓" tvg-logo="https://live.puellulae.top/signs/快乐垂钓.png" group-title="高清频道",快乐垂钓HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.142:10488
-#EXTINF:-1 tvg-id="308" tvg-name="风云足球" tvg-logo="https://live.puellulae.top/signs/风云足球.png" group-title="高清频道",风云足球HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.81:10126
-#EXTINF:-1 tvg-id="311" tvg-name="兵器科技" tvg-logo="https://live.puellulae.top/signs/兵器科技.png" group-title="高清频道",兵器科技HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.79:10114
-#EXTINF:-1 tvg-id="312" tvg-name="茶" tvg-logo="https://live.puellulae.top/signs/茶.png" group-title="高清频道",茶HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.144:10500
-#EXTINF:-1 tvg-id="313" tvg-name="CHC影迷电影" tvg-logo="https://live.puellulae.top/signs/CHC影迷电影.png" group-title="高清频道",CHC影迷电影HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.241:11088
-#EXTINF:-1 tvg-id="314" tvg-name="CHC动作电影" tvg-logo="https://live.puellulae.top/signs/CHC动作电影.png" group-title="高清频道",CHC动作电影HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.242:11094
-#EXTINF:-1 tvg-id="315" tvg-name="CHC家庭影院" tvg-logo="https://live.puellulae.top/signs/CHC家庭影院.png" group-title="高清频道",CHC家庭影院HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.243:11100
-#EXTINF:-1 tvg-id="317" tvg-name="世界地理" tvg-logo="https://live.puellulae.top/signs/世界地理.png" group-title="高清频道",世界地理HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.91:10186
-#EXTINF:-1 tvg-id="318" tvg-name="高尔夫网球" tvg-logo="https://live.puellulae.top/signs/高尔夫网球.png" group-title="高清频道",高尔夫网球HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.83:10138
-#EXTINF:-1 tvg-id="319" tvg-name="梨园" tvg-logo="https://live.puellulae.top/signs/梨园.png" group-title="高清频道",梨园HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.33:9838
-#EXTINF:-1 tvg-id="320" tvg-name="文物宝库" tvg-logo="https://live.puellulae.top/signs/文物宝库.png" group-title="高清频道",文物宝库HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.46:9916
-#EXTINF:-1 tvg-id="321" tvg-name="武术世界" tvg-logo="https://live.puellulae.top/signs/武术世界.png" group-title="高清频道",武术世界HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.47:9922
-#EXTINF:-1 tvg-id="341" tvg-name="第一剧场" tvg-logo="https://live.puellulae.top/signs/第一剧场.png" group-title="高清频道",第一剧场HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.74:10084
-#EXTINF:-1 tvg-id="344" tvg-name="央视台球" tvg-logo="https://live.puellulae.top/signs/央视台球.png" group-title="高清频道",央视台球HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.98:10224
-#EXTINF:-1 tvg-id="348" tvg-name="女性时尚" tvg-logo="https://live.puellulae.top/signs/女性时尚.png" group-title="高清频道",女性时尚
-http://udpxy.puellulae.top:4022/rtp/239.69.1.86:10156
-#EXTINF:-1 tvg-id="524" tvg-name="宜昌综合" tvg-logo="https://live.puellulae.top/signs/宜昌综合.png" group-title="高清频道",宜昌综合HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.67:10042
-#EXTINF:-1 tvg-id="525" tvg-name="宜昌旅游生活" tvg-logo="https://live.puellulae.top/signs/宜昌旅游生活.png" group-title="高清频道",宜昌旅游生活HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.75:10090
-#EXTINF:-1 tvg-id="1232" tvg-name="夷陵综合" tvg-logo="https://live.puellulae.top/signs/夷陵综合.png" group-title="高清频道",夷陵综合HD
-http://udpxy.puellulae.top:4022/rtp/239.69.1.238:11070
+﻿#EXTM3U
+#EXTINF:-1  tvg-id="1" tvg-logo="https://live.puellulae.top/signs/CCTV1.png" group-title="央视",CCTV1HD
+http://192.168.1.3:3333/udp/239.253.152.96:8550
+#EXTINF:-1  tvg-id="2" tvg-logo="https://live.puellulae.top/signs/CCTV2.png" group-title="央视",CCTV2HD
+http://192.168.1.3:3333/udp/239.69.1.102:10250
+#EXTINF:-1  tvg-id="3" tvg-logo="https://live.puellulae.top/signs/CCTV3.png" group-title="央视",CCTV3HD
+http://192.168.1.3:3333/udp/239.69.1.122:10370
+#EXTINF:-1  tvg-id="4" tvg-logo="https://live.puellulae.top/signs/CCTV4.png" group-title="央视",CCTV4HD
+http://192.168.1.3:3333/udp/239.69.1.138:10466
+#EXTINF:-1  tvg-id="5" tvg-logo="https://live.puellulae.top/signs/CCTV5.png" group-title="央视",CCTV5HD
+http://192.168.1.3:3333/udp/239.69.1.123:10376
+#EXTINF:-1  tvg-id="6" tvg-logo="https://live.puellulae.top/signs/CCTV6.png" group-title="央视",CCTV6HD
+http://192.168.1.3:3333/udp/239.69.1.124:10382
+#EXTINF:-1  tvg-id="7" tvg-logo="https://live.puellulae.top/signs/CCTV7.png" group-title="央视",CCTV7HD
+http://192.168.1.3:3333/udp/239.69.1.103:10256
+#EXTINF:-1  tvg-id="8" tvg-logo="https://live.puellulae.top/signs/CCTV8.png" group-title="央视",CCTV8HD
+http://192.168.1.3:3333/udp/239.69.1.125:10388
+#EXTINF:-1  tvg-id="9" tvg-logo="https://live.puellulae.top/signs/CCTV9.png" group-title="央视",CCTV9HD
+http://192.168.1.3:3333/udp/239.69.1.104:10262
+#EXTINF:-1  tvg-id="10" tvg-logo="https://live.puellulae.top/signs/CCTV10.png" group-title="央视",CCTV10HD
+http://192.168.1.3:3333/udp/239.69.1.105:10268
+#EXTINF:-1  tvg-id="11" tvg-logo="https://live.puellulae.top/signs/CCTV11.png" group-title="央视",CCTV11HD
+http://192.168.1.3:3333/udp/239.69.1.154:10560
+#EXTINF:-1  tvg-id="12" tvg-logo="https://live.puellulae.top/signs/CCTV12.png" group-title="央视",CCTV12HD
+http://192.168.1.3:3333/udp/239.69.1.106:10274
+#EXTINF:-1  tvg-id="13" tvg-logo="https://live.puellulae.top/signs/CCTV13.png" group-title="央视",CCTV13HD
+http://192.168.1.3:3333/udp/239.253.152.161:9040
+#EXTINF:-1  tvg-id="14" tvg-logo="https://live.puellulae.top/signs/CCTV14.png" group-title="央视",CCTV14HD
+http://192.168.1.3:3333/udp/239.69.1.107:10280
+#EXTINF:-1  tvg-id="15" tvg-logo="https://live.puellulae.top/signs/CCTV15.png" group-title="央视",CCTV15HD
+http://192.168.1.3:3333/udp/239.69.1.155:10566
+#EXTINF:-1  tvg-id="16" tvg-logo="https://live.puellulae.top/signs/CCTV16.png" group-title="央视",CCTV16HD
+http://192.168.1.3:3333/udp/239.69.1.247:11124
+#EXTINF:-1  tvg-id="17" tvg-logo="https://live.puellulae.top/signs/CCTV17.png" group-title="央视",CCTV17HD
+http://192.168.1.3:3333/udp/239.69.1.152:10548
+#EXTINF:-1  tvg-id="18" tvg-logo="https://live.puellulae.top/signs/CCTV5十.png" group-title="央视",CCTV5十HD
+http://192.168.1.3:3333/udp/239.253.152.234:9484
+#EXTINF:-1  tvg-id="19" tvg-logo="https://live.puellulae.top/signs/CCTV4K.png" group-title="央视",CCTV4K
+http://192.168.1.3:3333/udp/239.69.1.111:10304
+#EXTINF:-1  tvg-id="20" tvg-logo="https://live.puellulae.top/signs/CCTV16.png" group-title="央视",CCTV164K
+http://192.168.1.3:3333/udp/239.69.1.249:11136
+#EXTINF:-1  tvg-id="21" tvg-logo="https://live.puellulae.top/signs/湖北卫视.png" group-title="湖北",湖北卫视HD
+http://192.168.1.3:3333/udp/239.253.152.115:8664
+#EXTINF:-1  tvg-id="22" tvg-logo="https://live.puellulae.top/signs/湖北经视.png" group-title="湖北",湖北经视HD
+http://192.168.1.3:3333/udp/239.69.1.41:9886
+#EXTINF:-1  tvg-id="23" tvg-logo="https://live.puellulae.top/signs/湖北综合.png" group-title="湖北",湖北综合HD
+http://192.168.1.3:3333/udp/239.69.1.42:9892
+#EXTINF:-1  tvg-id="24" tvg-logo="https://live.puellulae.top/signs/湖北垄上.png" group-title="湖北",湖北垄上HD
+http://192.168.1.3:3333/udp/239.69.1.43:9898
+#EXTINF:-1  tvg-id="25" tvg-logo="https://live.puellulae.top/signs/湖北公共.png" group-title="湖北",湖北公共HD
+http://192.168.1.3:3333/udp/239.69.1.40:9880
+#EXTINF:-1  tvg-id="26" tvg-logo="https://live.puellulae.top/signs/湖北影视.png" group-title="湖北",湖北影视HD
+http://192.168.1.3:3333/udp/239.69.1.204:10866
+#EXTINF:-1  tvg-id="27" tvg-logo="https://live.puellulae.top/signs/湖北教育.png" group-title="湖北",湖北教育HD
+http://192.168.1.3:3333/udp/239.69.1.206:10878
+#EXTINF:-1  tvg-id="28" tvg-logo="https://live.puellulae.top/signs/湖北生活.png" group-title="湖北",湖北生活HD
+http://192.168.1.3:3333/udp/239.69.1.205:10872
+#EXTINF:-1  tvg-id="38" tvg-logo="https://live.puellulae.top/signs/中国交通.png" group-title="专业",中国交通HD
+http://192.168.1.3:3333/udp/239.69.2.3:11172
+#EXTINF:-1  tvg-id="39" tvg-logo="https://live.puellulae.top/signs/央广购物.png" group-title="专业",央广购物HD
+http://192.168.1.3:3333/udp/239.69.2.1:11160
+#EXTINF:-1  tvg-id="41" tvg-logo="https://live.puellulae.top/signs/湖南卫视.png" group-title="卫视",湖南卫视HD
+http://192.168.1.3:3333/udp/239.253.152.139:8908
+#EXTINF:-1  tvg-id="42" tvg-logo="https://live.puellulae.top/signs/浙江卫视.png" group-title="卫视",浙江卫视HD
+http://192.168.1.3:3333/udp/239.253.152.143:8932
+#EXTINF:-1  tvg-id="43" tvg-logo="https://live.puellulae.top/signs/江苏卫视.png" group-title="卫视",江苏卫视HD
+http://192.168.1.3:3333/udp/239.253.152.144:8938
+#EXTINF:-1  tvg-id="44" tvg-logo="https://live.puellulae.top/signs/东方卫视.png" group-title="卫视",东方卫视HD
+http://192.168.1.3:3333/udp/239.253.152.142:8926
+#EXTINF:-1  tvg-id="45" tvg-logo="https://live.puellulae.top/signs/北京卫视.png" group-title="卫视",北京卫视HD
+http://192.168.1.3:3333/udp/239.253.152.141:8920
+#EXTINF:-1  tvg-id="46" tvg-logo="https://live.puellulae.top/signs/广东卫视.png" group-title="卫视",广东卫视HD
+http://192.168.1.3:3333/udp/239.253.152.140:8914
+#EXTINF:-1  tvg-id="47" tvg-logo="https://live.puellulae.top/signs/深圳卫视.png" group-title="卫视",深圳卫视HD
+http://192.168.1.3:3333/udp/239.253.152.137:8896
+#EXTINF:-1  tvg-id="48" tvg-logo="https://live.puellulae.top/signs/黑龙江卫视.png" group-title="卫视",黑龙江卫视HD
+http://192.168.1.3:3333/udp/239.253.152.138:8902
+#EXTINF:-1  tvg-id="49" tvg-logo="https://live.puellulae.top/signs/天津卫视.png" group-title="卫视",天津卫视HD
+http://192.168.1.3:3333/udp/239.69.1.68:10048
+#EXTINF:-1  tvg-id="50" tvg-logo="https://live.puellulae.top/signs/山东卫视.png" group-title="卫视",山东卫视HD
+http://192.168.1.3:3333/udp/239.69.1.69:10054
+#EXTINF:-1  tvg-id="51" tvg-logo="https://live.puellulae.top/signs/安徽卫视.png" group-title="卫视",安徽卫视HD
+http://192.168.1.3:3333/udp/239.69.1.70:10060
+#EXTINF:-1  tvg-id="52" tvg-logo="https://live.puellulae.top/signs/辽宁卫视.png" group-title="卫视",辽宁卫视HD
+http://192.168.1.3:3333/udp/239.69.1.71:10066
+#EXTINF:-1  tvg-id="53" tvg-logo="https://live.puellulae.top/signs/东南卫视.png" group-title="卫视",东南卫视HD
+http://192.168.1.3:3333/udp/239.69.1.108:10286
+#EXTINF:-1  tvg-id="54" tvg-logo="https://live.puellulae.top/signs/江西卫视.png" group-title="卫视",江西卫视HD
+http://192.168.1.3:3333/udp/239.69.1.126:10394
+#EXTINF:-1  tvg-id="55" tvg-logo="https://live.puellulae.top/signs/重庆卫视.png" group-title="卫视",重庆卫视HD
+http://192.168.1.3:3333/udp/239.69.1.149:10530
+#EXTINF:-1  tvg-id="56" tvg-logo="https://live.puellulae.top/signs/贵州卫视.png" group-title="卫视",贵州卫视HD
+http://192.168.1.3:3333/udp/239.69.1.150:10536
+#EXTINF:-1  tvg-id="57" tvg-logo="https://live.puellulae.top/signs/河南卫视.png" group-title="卫视",河南卫视HD
+http://192.168.1.3:3333/udp/239.69.1.168:10644
+#EXTINF:-1  tvg-id="58" tvg-logo="https://live.puellulae.top/signs/四川卫视.png" group-title="卫视",四川卫视HD
+http://192.168.1.3:3333/udp/239.69.1.169:10650
+#EXTINF:-1  tvg-id="59" tvg-logo="https://live.puellulae.top/signs/河北卫视.png" group-title="卫视",河北卫视HD
+http://192.168.1.3:3333/udp/239.69.1.157:10578
+#EXTINF:-1  tvg-id="60" tvg-logo="https://live.puellulae.top/signs/海南卫视.png" group-title="卫视",海南卫视HD
+http://192.168.1.3:3333/udp/239.69.1.151:10542
+#EXTINF:-1  tvg-id="61" tvg-logo="https://live.puellulae.top/signs/广西卫视.png" group-title="卫视",广西卫视HD
+http://192.168.1.3:3333/udp/239.69.1.191:10788
+#EXTINF:-1  tvg-id="62" tvg-logo="https://live.puellulae.top/signs/吉林卫视.png" group-title="卫视",吉林卫视HD
+http://192.168.1.3:3333/udp/239.69.1.212:10914
+#EXTINF:-1  tvg-id="72" tvg-logo="https://live.puellulae.top/signs/卡酷少儿.png" group-title="卫视",卡酷少儿HD
+http://192.168.1.3:3333/udp/239.69.1.193:10800
+#EXTINF:-1  tvg-id="73" tvg-logo="https://live.puellulae.top/signs/金鹰卡通.png" group-title="卫视",金鹰卡通HD
+http://192.168.1.3:3333/udp/239.69.1.248:11130
+#EXTINF:-1  tvg-id="74" tvg-logo="https://live.puellulae.top/signs/金鹰纪实.png" group-title="卫视",金鹰纪实HD
+http://192.168.1.3:3333/udp/239.69.1.109:10292
+#EXTINF:-1  tvg-id="75" tvg-logo="https://live.puellulae.top/signs/中国教育1.png" group-title="央视",中国教育1HD
+http://192.168.1.3:3333/udp/239.69.1.110:10298
+#EXTINF:-1  tvg-id="90" tvg-logo="https://live.puellulae.top/signs/CCTV4欧洲.png" group-title="央视",CCTV4中文国际欧洲HD
+http://192.168.1.3:3333/udp/239.69.1.231:11028
+#EXTINF:-1  tvg-id="91" tvg-logo="https://live.puellulae.top/signs/CCTV4美洲.png" group-title="央视",CCTV4中文国际美洲HD
+http://192.168.1.3:3333/udp/239.69.1.232:11034
+#EXTINF:-1  tvg-id="92" tvg-logo="https://live.puellulae.top/signs/CGTN纪录.png" group-title="央视",CGTN英文纪录HD
+http://192.168.1.3:3333/udp/239.69.1.233:11040
+#EXTINF:-1  tvg-id="93" tvg-logo="https://live.puellulae.top/signs/CGTN西语.png" group-title="央视",CGTN西班牙语HD
+http://192.168.1.3:3333/udp/239.69.1.234:11046
+#EXTINF:-1  tvg-id="94" tvg-logo="https://live.puellulae.top/signs/CGTN法语.png" group-title="央视",CGTN法语HD
+http://192.168.1.3:3333/udp/239.69.1.235:11052
+#EXTINF:-1  tvg-id="95" tvg-logo="https://live.puellulae.top/signs/CGTN阿语.png" group-title="央视",CGTN阿拉伯语HD
+http://192.168.1.3:3333/udp/239.69.1.221:10968
+#EXTINF:-1  tvg-id="96" tvg-logo="https://live.puellulae.top/signs/CGTN俄语.png" group-title="央视",CGTN俄语HD
+http://192.168.1.3:3333/udp/239.69.1.222:10974
+#EXTINF:-1  tvg-id="97" tvg-logo="https://live.puellulae.top/signs/CGTN英语.png" group-title="央视",CGTN英语HD
+http://192.168.1.3:3333/udp/239.253.152.175:9124
+#EXTINF:-1  tvg-id="98" tvg-logo="https://live.puellulae.top/signs/江苏卫视.png" group-title="卫视",江苏卫视FHD
+http://192.168.1.3:3333/udp/239.69.1.174:10680
+#EXTINF:-1  tvg-id="99" tvg-logo="https://live.puellulae.top/signs/东方卫视.png" group-title="卫视",东方卫视FHD
+http://192.168.1.3:3333/udp/239.69.1.173:10674
+#EXTINF:-1  tvg-id="101" tvg-logo="https://live.puellulae.top/signs/CCTV1.png" group-title="央视",CCTV1
+http://192.168.1.3:3333/udp/239.253.152.3:7992
+#EXTINF:-1  tvg-id="102" tvg-logo="https://live.puellulae.top/signs/CCTV2.png" group-title="央视",CCTV2
+http://192.168.1.3:3333/udp/239.253.152.154:8998
+#EXTINF:-1  tvg-id="104" tvg-logo="https://live.puellulae.top/signs/CCTV4.png" group-title="央视",CCTV4
+http://192.168.1.3:3333/udp/239.253.152.155:9004
+#EXTINF:-1  tvg-id="105" tvg-logo="https://live.puellulae.top/signs/CCTV5十.png" group-title="央视",CCTV5十
+http://192.168.1.3:3333/udp/239.253.152.99:8568
+#EXTINF:-1  tvg-id="107" tvg-logo="https://live.puellulae.top/signs/CCTV7.png" group-title="央视",CCTV7
+http://192.168.1.3:3333/udp/239.253.152.156:9130
+#EXTINF:-1  tvg-id="109" tvg-logo="https://live.puellulae.top/signs/CCTV9.png" group-title="央视",CCTV9
+http://192.168.1.3:3333/udp/239.253.152.157:9016
+#EXTINF:-1  tvg-id="110" tvg-logo="https://live.puellulae.top/signs/CCTV10.png" group-title="央视",CCTV10
+http://192.168.1.3:3333/udp/239.253.152.158:9022
+#EXTINF:-1  tvg-id="111" tvg-logo="https://live.puellulae.top/signs/CCTV11.png" group-title="央视",CCTV11
+http://192.168.1.3:3333/udp/239.253.152.9:8028
+#EXTINF:-1  tvg-id="112" tvg-logo="https://live.puellulae.top/signs/CCTV12.png" group-title="央视",CCTV12
+http://192.168.1.3:3333/udp/239.253.152.160:9034
+#EXTINF:-1  tvg-id="113" tvg-logo="https://live.puellulae.top/signs/CCTV13.png" group-title="央视",CCTV13
+http://192.168.1.3:3333/udp/239.253.152.11:8040
+#EXTINF:-1  tvg-id="114" tvg-logo="https://live.puellulae.top/signs/CCTV14.png" group-title="央视",CCTV14
+http://192.168.1.3:3333/udp/239.253.152.162:9046
+#EXTINF:-1  tvg-id="115" tvg-logo="https://live.puellulae.top/signs/CCTV15.png" group-title="央视",CCTV15
+http://192.168.1.3:3333/udp/239.253.152.13:8052
+#EXTINF:-1  tvg-id="116" tvg-logo="https://live.puellulae.top/signs/CGTN.png" group-title="央视",CGTN English
+http://192.168.1.3:3333/udp/239.253.152.7:8016
+#EXTINF:-1  tvg-id="117" tvg-logo="https://live.puellulae.top/signs/CCTV17.png" group-title="央视",CCTV17
+http://192.168.1.3:3333/udp/239.69.1.153:10554
+#EXTINF:-1  tvg-id="121" tvg-logo="https://live.puellulae.top/signs/湖北卫视.png" group-title="湖北",湖北卫视
+http://192.168.1.3:3333/udp/239.253.152.1:7980
+#EXTINF:-1  tvg-id="122" tvg-logo="https://live.puellulae.top/signs/湖北经视.png" group-title="湖北",湖北经视
+http://192.168.1.3:3333/udp/239.253.152.178:9148
+#EXTINF:-1  tvg-id="123" tvg-logo="https://live.puellulae.top/signs/湖北综合.png" group-title="湖北",湖北综合
+http://192.168.1.3:3333/udp/239.253.152.177:9142
+#EXTINF:-1  tvg-id="124" tvg-logo="https://live.puellulae.top/signs/湖北垄上.png" group-title="湖北",湖北垄上
+http://192.168.1.3:3333/udp/239.253.152.184:9184
+#EXTINF:-1  tvg-id="125" tvg-logo="https://live.puellulae.top/signs/湖北公共.png" group-title="湖北",湖北公共
+http://192.168.1.3:3333/udp/239.253.152.179:9154
+#EXTINF:-1  tvg-id="126" tvg-logo="https://live.puellulae.top/signs/湖北影视.png" group-title="湖北",湖北影视
+http://192.168.1.3:3333/udp/239.253.152.182:9172
+#EXTINF:-1  tvg-id="127" tvg-logo="https://live.puellulae.top/signs/湖北教育.png" group-title="湖北",湖北教育
+http://192.168.1.3:3333/udp/239.253.152.180:9160
+#EXTINF:-1  tvg-id="128" tvg-logo="https://live.puellulae.top/signs/湖北生活.png" group-title="湖北",湖北生活
+http://192.168.1.3:3333/udp/239.253.152.181:9166
+#EXTINF:-1  tvg-id="141" tvg-logo="https://live.puellulae.top/signs/湖南卫视.png" group-title="卫视",湖南卫视
+http://192.168.1.3:3333/udp/239.253.152.15:8064
+#EXTINF:-1  tvg-id="142" tvg-logo="https://live.puellulae.top/signs/浙江卫视.png" group-title="卫视",浙江卫视
+http://192.168.1.3:3333/udp/239.253.152.18:8082
+#EXTINF:-1  tvg-id="143" tvg-logo="https://live.puellulae.top/signs/江苏卫视.png" group-title="卫视",江苏卫视
+http://192.168.1.3:3333/udp/239.253.152.17:8076
+#EXTINF:-1  tvg-id="144" tvg-logo="https://live.puellulae.top/signs/东方卫视.png" group-title="卫视",东方卫视
+http://192.168.1.3:3333/udp/239.253.152.2:7986
+#EXTINF:-1  tvg-id="145" tvg-logo="https://live.puellulae.top/signs/北京卫视.png" group-title="卫视",北京卫视
+http://192.168.1.3:3333/udp/239.253.152.16:8070
+#EXTINF:-1  tvg-id="146" tvg-logo="https://live.puellulae.top/signs/广东卫视.png" group-title="卫视",广东卫视
+http://192.168.1.3:3333/udp/239.253.152.22:8106
+#EXTINF:-1  tvg-id="147" tvg-logo="https://live.puellulae.top/signs/深圳卫视.png" group-title="卫视",深圳卫视
+http://192.168.1.3:3333/udp/239.253.152.34:8178
+#EXTINF:-1  tvg-id="148" tvg-logo="https://live.puellulae.top/signs/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://192.168.1.3:3333/udp/239.253.152.92:8526
+#EXTINF:-1  tvg-id="149" tvg-logo="https://live.puellulae.top/signs/天津卫视.png" group-title="卫视",天津卫视
+http://192.168.1.3:3333/udp/239.253.152.29:8148
+#EXTINF:-1  tvg-id="150" tvg-logo="https://live.puellulae.top/signs/山东卫视.png" group-title="卫视",山东卫视
+http://192.168.1.3:3333/udp/239.253.152.21:8100
+#EXTINF:-1  tvg-id="151" tvg-logo="https://live.puellulae.top/signs/安徽卫视.png" group-title="卫视",安徽卫视
+http://192.168.1.3:3333/udp/239.253.152.20:8094
+#EXTINF:-1  tvg-id="152" tvg-logo="https://live.puellulae.top/signs/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://192.168.1.3:3333/udp/239.253.152.19:8088
+#EXTINF:-1  tvg-id="153" tvg-logo="https://live.puellulae.top/signs/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://192.168.1.3:3333/udp/239.253.152.97:8556
+#EXTINF:-1  tvg-id="154" tvg-logo="https://live.puellulae.top/signs/广西卫视.png" group-title="卫视",广西卫视
+http://192.168.1.3:3333/udp/239.253.152.23:8112
+#EXTINF:-1  tvg-id="155" tvg-logo="https://live.puellulae.top/signs/海南卫视.png" group-title="卫视",海南卫视
+http://192.168.1.3:3333/udp/239.253.152.24:8118
+#EXTINF:-1  tvg-id="156" tvg-logo="https://live.puellulae.top/signs/重庆卫视.png" group-title="卫视",重庆卫视
+http://192.168.1.3:3333/udp/239.253.152.25:8124
+#EXTINF:-1  tvg-id="157" tvg-logo="https://live.puellulae.top/signs/东南卫视.png" group-title="卫视",东南卫视
+http://192.168.1.3:3333/udp/239.253.152.26:8130
+#EXTINF:-1  tvg-id="158" tvg-logo="https://live.puellulae.top/signs/江西卫视.png" group-title="卫视",江西卫视
+http://192.168.1.3:3333/udp/239.253.152.27:8136
+#EXTINF:-1  tvg-id="159" tvg-logo="https://live.puellulae.top/signs/河南卫视.png" group-title="卫视",河南卫视
+http://192.168.1.3:3333/udp/239.253.152.28:8142
+#EXTINF:-1  tvg-id="160" tvg-logo="https://live.puellulae.top/signs/四川卫视.png" group-title="卫视",四川卫视
+http://192.168.1.3:3333/udp/239.253.152.90:8514
+#EXTINF:-1  tvg-id="161" tvg-logo="https://live.puellulae.top/signs/吉林卫视.png" group-title="卫视",吉林卫视
+http://192.168.1.3:3333/udp/239.253.152.91:8520
+#EXTINF:-1  tvg-id="162" tvg-logo="https://live.puellulae.top/signs/山西卫视.png" group-title="卫视",山西卫视
+http://192.168.1.3:3333/udp/239.253.152.93:8532
+#EXTINF:-1  tvg-id="163" tvg-logo="https://live.puellulae.top/signs/云南卫视.png" group-title="卫视",云南卫视
+http://192.168.1.3:3333/udp/239.253.152.30:8154
+#EXTINF:-1  tvg-id="164" tvg-logo="https://live.puellulae.top/signs/贵州卫视.png" group-title="卫视",贵州卫视
+http://192.168.1.3:3333/udp/239.253.152.31:8160
+#EXTINF:-1  tvg-id="165" tvg-logo="https://live.puellulae.top/signs/西藏卫视.png" group-title="卫视",西藏卫视
+http://192.168.1.3:3333/udp/239.253.152.35:8184
+#EXTINF:-1  tvg-id="166" tvg-logo="https://live.puellulae.top/signs/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://192.168.1.3:3333/udp/239.253.152.41:8220
+#EXTINF:-1  tvg-id="167" tvg-logo="https://live.puellulae.top/signs/新疆卫视.png" group-title="卫视",新疆卫视
+http://192.168.1.3:3333/udp/239.253.152.47:8256
+#EXTINF:-1  tvg-id="168" tvg-logo="https://live.puellulae.top/signs/兵团卫视.png" group-title="卫视",兵团卫视
+http://192.168.1.3:3333/udp/239.253.152.48:8262
+#EXTINF:-1  tvg-id="169" tvg-logo="https://live.puellulae.top/signs/青海卫视.png" group-title="卫视",青海卫视
+http://192.168.1.3:3333/udp/239.253.152.95:8544
+#EXTINF:-1  tvg-id="170" tvg-logo="https://live.puellulae.top/signs/河北卫视.png" group-title="卫视",河北卫视
+http://192.168.1.3:3333/udp/239.253.152.185:9190
+#EXTINF:-1  tvg-id="171" tvg-logo="https://live.puellulae.top/signs/陕西卫视.png" group-title="卫视",陕西卫视
+http://192.168.1.3:3333/udp/239.253.152.186:9196
+#EXTINF:-1  tvg-id="172" tvg-logo="https://live.puellulae.top/signs/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://192.168.1.3:3333/udp/239.253.152.187:9202
+#EXTINF:-1  tvg-id="173" tvg-logo="https://live.puellulae.top/signs/卡酷少儿.png" group-title="卫视",卡酷少儿
+http://192.168.1.3:3333/udp/239.253.152.188:9208
+#EXTINF:-1  tvg-id="174" tvg-logo="https://live.puellulae.top/signs/金鹰卡通.png" group-title="卫视",金鹰卡通
+http://192.168.1.3:3333/udp/239.253.152.189:9214
+#EXTINF:-1  tvg-id="175" tvg-logo="https://live.puellulae.top/signs/三沙卫视.png" group-title="卫视",三沙卫视
+http://192.168.1.3:3333/udp/239.69.1.171:10662
+#EXTINF:-1  tvg-id="176" tvg-logo="https://live.puellulae.top/signs/中国教育2.png" group-title="央视",中国教育2
+http://192.168.1.3:3333/udp/239.69.1.183:10734
+#EXTINF:-1  tvg-id="177" tvg-logo="https://live.puellulae.top/signs/中国教育4.png" group-title="央视",中国教育4
+http://192.168.1.3:3333/udp/239.69.1.175:10686
+#EXTINF:-1  tvg-id="178" tvg-logo="https://live.puellulae.top/signs/山东教育卫视.png" group-title="卫视",山东教育卫视
+http://192.168.1.3:3333/udp/239.69.1.228:11010
+#EXTINF:-1  tvg-id="179" tvg-logo="https://live.puellulae.top/signs/厦门卫视.png" group-title="卫视",厦门卫视
+http://192.168.1.3:3333/udp/239.69.1.127:10400
+#EXTINF:-1  tvg-id="220" tvg-logo="https://live.puellulae.top/signs/环球奇观.png" group-title="专业",环球奇观
+http://192.168.1.3:3333/udp/239.253.152.192:9232
+#EXTINF:-1  tvg-id="221" tvg-logo="https://live.puellulae.top/signs/国学频道.png" group-title="专业",国学频道
+http://192.168.1.3:3333/udp/239.253.152.194:9244
+#EXTINF:-1  tvg-id="230" tvg-logo="https://live.puellulae.top/signs/财富天下.png" group-title="专业",财富天下
+http://192.168.1.3:3333/udp/239.253.152.210:9340
+#EXTINF:-1  tvg-id="303" tvg-logo="https://live.puellulae.top/signs/怀旧剧场.png" group-title="付费",怀旧剧场
+http://192.168.1.3:3333/udp/239.69.1.89:10174
+#EXTINF:-1  tvg-id="305" tvg-logo="https://live.puellulae.top/signs/风云音乐.png" group-title="付费",风云音乐
+http://192.168.1.3:3333/udp/239.69.1.90:10180
+#EXTINF:-1  tvg-id="306" tvg-logo="https://live.puellulae.top/signs/快乐垂钓.png" group-title="付费",快乐垂钓HD
+http://192.168.1.3:3333/udp/239.69.1.142:10488
+#EXTINF:-1  tvg-id="307" tvg-logo="https://live.puellulae.top/signs/先锋乒羽.png" group-title="付费",先锋乒羽
+http://192.168.1.3:3333/udp/239.69.1.143:10494
+#EXTINF:-1  tvg-id="308" tvg-logo="https://live.puellulae.top/signs/风云足球.png" group-title="付费",风云足球HD
+http://192.168.1.3:3333/udp/239.69.1.81:10126
+#EXTINF:-1  tvg-id="309" tvg-logo="https://live.puellulae.top/signs/汽摩.png" group-title="付费",汽摩
+http://192.168.1.3:3333/udp/239.69.1.84:10144
+#EXTINF:-1  tvg-id="310" tvg-logo="https://live.puellulae.top/signs/老故事.png" group-title="付费",老故事
+http://192.168.1.3:3333/udp/239.69.1.85:10150
+#EXTINF:-1  tvg-id="311" tvg-logo="https://live.puellulae.top/signs/兵器科技.png" group-title="付费",兵器科技HD
+http://192.168.1.3:3333/udp/239.69.1.79:10114
+#EXTINF:-1  tvg-id="312" tvg-logo="https://live.puellulae.top/signs/茶.png" group-title="付费",茶HD
+http://192.168.1.3:3333/udp/239.69.1.144:10500
+#EXTINF:-1  tvg-id="313" tvg-logo="https://live.puellulae.top/signs/CHC影迷电影.png" group-title="付费",CHC影迷电影HD
+http://192.168.1.3:3333/udp/239.69.1.241:11088
+#EXTINF:-1  tvg-id="314" tvg-logo="https://live.puellulae.top/signs/CHC动作电影.png" group-title="付费",CHC动作电影HD
+http://192.168.1.3:3333/udp/239.69.1.242:11094
+#EXTINF:-1  tvg-id="315" tvg-logo="https://live.puellulae.top/signs/CHC家庭影院.png" group-title="付费",CHC家庭影院HD
+http://192.168.1.3:3333/udp/239.69.1.243:11100
+#EXTINF:-1  tvg-id="316" tvg-logo="https://live.puellulae.top/signs/四海钓鱼.png" group-title="付费",四海钓鱼
+http://192.168.1.3:3333/udp/239.69.1.244:11106
+#EXTINF:-1  tvg-id="317" tvg-logo="https://live.puellulae.top/signs/世界地理.png" group-title="付费",世界地理HD
+http://192.168.1.3:3333/udp/239.69.1.91:10186
+#EXTINF:-1  tvg-id="318" tvg-logo="https://live.puellulae.top/signs/高尔夫网球.png" group-title="付费",高尔夫网球HD
+http://192.168.1.3:3333/udp/239.69.1.83:10138
+#EXTINF:-1  tvg-id="319" tvg-logo="https://live.puellulae.top/signs/梨园.png" group-title="付费",梨园HD
+http://192.168.1.3:3333/udp/239.69.1.33:9838
+#EXTINF:-1  tvg-id="320" tvg-logo="https://live.puellulae.top/signs/文物宝库.png" group-title="付费",文物宝库HD
+http://192.168.1.3:3333/udp/239.69.1.46:9916
+#EXTINF:-1  tvg-id="321" tvg-logo="https://live.puellulae.top/signs/武术世界.png" group-title="付费",武术世界HD
+http://192.168.1.3:3333/udp/239.69.1.47:9922
+#EXTINF:-1  tvg-id="341" tvg-logo="https://live.puellulae.top/signs/第一剧场.png" group-title="付费",第一剧场HD
+http://192.168.1.3:3333/udp/239.69.1.74:10084
+#EXTINF:-1  tvg-id="344" tvg-logo="https://live.puellulae.top/signs/央视台球.png" group-title="付费",央视台球HD
+http://192.168.1.3:3333/udp/239.69.1.98:10224
+#EXTINF:-1  tvg-id="345" tvg-logo="https://live.puellulae.top/signs/电视指南.png" group-title="付费",电视指南
+http://192.168.1.3:3333/udp/239.69.1.87:10162
+#EXTINF:-1  tvg-id="347" tvg-logo="https://live.puellulae.top/signs/新动漫.png" group-title="付费",新动漫
+http://192.168.1.3:3333/udp/239.69.1.187:10764
+#EXTINF:-1  tvg-id="348" tvg-logo="https://live.puellulae.top/signs/女性时尚.png" group-title="付费",女性时尚
+http://192.168.1.3:3333/udp/239.69.1.86:10156
+#EXTINF:-1  tvg-id="349" tvg-logo="https://live.puellulae.top/signs/书画.png" group-title="付费",书画
+http://192.168.1.3:3333/udp/239.69.1.189:10776
+#EXTINF:-1  tvg-id="521" tvg-logo="https://live.puellulae.top/signs/宜昌综合.png" group-title="宜昌",宜昌综合
+http://192.168.1.3:3333/udp/239.253.152.153:8992
+#EXTINF:-1  tvg-id="522" tvg-logo="https://live.puellulae.top/signs/宜昌旅游生活.png" group-title="宜昌",宜昌旅游生活
+http://192.168.1.3:3333/udp/239.253.152.224:9424
+#EXTINF:-1  tvg-id="524" tvg-logo="https://live.puellulae.top/signs/宜昌综合.png" group-title="宜昌",宜昌综合HD
+http://192.168.1.3:3333/udp/239.69.1.67:10042
+#EXTINF:-1  tvg-id="525" tvg-logo="https://live.puellulae.top/signs/宜昌旅游生活.png" group-title="宜昌",宜昌旅游生活HD
+http://192.168.1.3:3333/udp/239.69.1.75:10090
+#EXTINF:-1  tvg-id="1201" tvg-logo="https://live.puellulae.top/signs/当阳综合.png" group-title="宜昌",宜昌当阳综合
+http://192.168.1.3:3333/udp/239.69.1.9:9694
+#EXTINF:-1  tvg-id="1202" tvg-logo="https://live.puellulae.top/signs/五峰综合.png" group-title="宜昌",宜昌五峰综合
+http://192.168.1.3:3333/udp/239.69.1.38:9868
+#EXTINF:-1  tvg-id="1214" tvg-logo="https://live.puellulae.top/signs/远安综合.png" group-title="宜昌",远安综合
+http://192.168.1.3:3333/udp/239.69.1.101:10244
+#EXTINF:-1  tvg-id="1232" tvg-logo="https://live.puellulae.top/signs/夷陵综合.png" group-title="宜昌",宜昌夷陵综合HD
+http://192.168.1.3:3333/udp/239.69.1.238:11070
+#EXTINF:-1  tvg-id="1233" tvg-logo="https://live.puellulae.top/signs/秭归新闻综合.png" group-title="宜昌",宜昌秭归新闻综合HD
+http://192.168.1.3:3333/udp/239.69.1.239:11076
+#EXTINF:-1  tvg-id="1234" tvg-logo="https://live.puellulae.top/signs/枝江综合.png" group-title="宜昌",宜昌枝江综合HD
+http://192.168.1.3:3333/udp/239.69.1.240:11082
+#EXTINF:-1  tvg-id="1236" tvg-logo="https://live.puellulae.top/signs/长阳综合.png" group-title="宜昌",宜昌长阳综合HD
+http://192.168.1.3:3333/udp/239.69.1.246:11118
+#EXTINF:-1  tvg-id="1237" tvg-logo="https://live.puellulae.top/signs/兴山综合.png" group-title="宜昌",宜昌兴山综合HD
+http://192.168.1.3:3333/udp/239.69.1.250:11142
+#EXTINF:-1  tvg-id="1312" tvg-logo="https://live.puellulae.top/signs/爱生活.png" group-title="",爱生活
+http://192.168.1.3:3333/udp/239.69.1.176:10692
+#EXTINF:-1  tvg-id="1313" tvg-logo="https://live.puellulae.top/signs/爱上4K.png" group-title="",爱上4K
+http://192.168.1.3:3333/udp/239.69.1.141:10482
