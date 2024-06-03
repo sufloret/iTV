@@ -319,11 +319,11 @@ http://192.168.1.3:3333/udp/239.69.1.75:10090
 http://192.168.1.3:3333/udp/239.69.1.9:9694
 #EXTINF:-1  tvg-id="1202" tvg-name="五峰综合" tvg-logo="https://live.puellulae.top/signs/五峰综合.png" group-title="宜昌",宜昌五峰综合
 http://192.168.1.3:3333/udp/239.69.1.38:9868
-#EXTINF:-1  tvg-id="1214" tvg-name="远安综合" tvg-logo="https://live.puellulae.top/signs/远安综合.png" group-title="宜昌",远安综合
+#EXTINF:-1  tvg-id="1214" tvg-name="远安综合" tvg-logo="https://live.puellulae.top/signs/远安融媒.png" group-title="宜昌",远安综合
 http://192.168.1.3:3333/udp/239.69.1.101:10244
 #EXTINF:-1  tvg-id="1232" tvg-name="夷陵综合" tvg-logo="https://live.puellulae.top/signs/夷陵综合.png" group-title="宜昌",宜昌夷陵综合HD
 http://192.168.1.3:3333/udp/239.69.1.238:11070
-#EXTINF:-1  tvg-id="1233" tvg-name="秭归综合" tvg-logo="https://live.puellulae.top/signs/秭归新闻综合.png" group-title="宜昌",宜昌秭归新闻综合HD
+#EXTINF:-1  tvg-id="1233" tvg-name="秭归综合" tvg-logo="https://live.puellulae.top/signs/秭归融媒.png" group-title="宜昌",宜昌秭归新闻综合HD
 http://192.168.1.3:3333/udp/239.69.1.239:11076
 #EXTINF:-1  tvg-id="1234" tvg-name="枝江综合" tvg-logo="https://live.puellulae.top/signs/枝江综合.png" group-title="宜昌",宜昌枝江综合HD
 http://192.168.1.3:3333/udp/239.69.1.240:11082
