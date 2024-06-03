@@ -33,7 +33,7 @@ http://192.168.1.3:3333/udp/239.69.1.155:10566
 http://192.168.1.3:3333/udp/239.69.1.247:11124
 #EXTINF:-1  tvg-id="17" tvg-name="CCTV17" tvg-logo="https://live.puellulae.top/signs/CCTV17.png" group-title="央视",CCTV17HD
 http://192.168.1.3:3333/udp/239.69.1.152:10548
-#EXTINF:-1  tvg-id="18" tvg-name="CCTV5十" tvg-logo="https://live.puellulae.top/signs/CCTV5+.png" group-title="央视",CCTV5十HD
+#EXTINF:-1  tvg-id="18" tvg-name="CCTV5+" tvg-logo="https://live.puellulae.top/signs/CCTV5+.png" group-title="央视",CCTV5十HD
 http://192.168.1.3:3333/udp/239.253.152.234:9484
 #EXTINF:-1  tvg-id="19" tvg-name="CCTV4K" tvg-logo="https://live.puellulae.top/signs/CCTV4K.png" group-title="央视",CCTV4K
 http://192.168.1.3:3333/udp/239.69.1.111:10304
@@ -137,7 +137,7 @@ http://192.168.1.3:3333/udp/239.253.152.3:7992
 http://192.168.1.3:3333/udp/239.253.152.154:8998
 #EXTINF:-1  tvg-id="104" tvg-name="CCTV4" tvg-logo="https://live.puellulae.top/signs/CCTV4.png" group-title="央视",CCTV4
 http://192.168.1.3:3333/udp/239.253.152.155:9004
-#EXTINF:-1  tvg-id="105" tvg-name="CCTV5十" tvg-logo="https://live.puellulae.top/signs/CCTV5+.png" group-title="央视",CCTV5十
+#EXTINF:-1  tvg-id="105" tvg-name="CCTV5+" tvg-logo="https://live.puellulae.top/signs/CCTV5+.png" group-title="央视",CCTV5十
 http://192.168.1.3:3333/udp/239.253.152.99:8568
 #EXTINF:-1  tvg-id="107" tvg-name="CCTV7" tvg-logo="https://live.puellulae.top/signs/CCTV7.png" group-title="央视",CCTV7
 http://192.168.1.3:3333/udp/239.253.152.156:9130
