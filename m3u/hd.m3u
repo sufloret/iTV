@@ -125,7 +125,7 @@ rtp://239.69.1.67:10042
 rtp://239.69.1.75:10090
 #EXTINF:-1 tvg-id="-" tvg-name="五峰综合" tvg-logo="https://live.puellulae.top/signs/五峰综合.png" group-title="地方",宜昌五峰综合
 rtp://239.69.1.38:9868
-#EXTINF:-1 tvg-id="-" tvg-name="远安综合" tvg-logo="https://live.puellulae.top/signs/远安综合.png" group-title="地方",宜昌远安综合
+#EXTINF:-1 tvg-id="-" tvg-name="远安综合" tvg-logo="https://live.puellulae.top/signs/远安融媒.png" group-title="地方",宜昌远安综合
 rtp://239.69.1.101:10244
 #EXTINF:-1 tvg-id="-" tvg-name="夷陵综合" tvg-logo="https://live.puellulae.top/signs/夷陵综合.png" group-title="地方",宜昌夷陵综合
 rtp://239.69.1.238:11070
