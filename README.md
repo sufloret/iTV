@@ -1,4 +1,4 @@
-<h1 align="center"> [✯ IPTV自用仓库 ✯](https://github.com/puellulae/itv/tree/main) </h1>
+[<h1 align="center"> ✯ IPTV自用仓库 ✯ </h1>](https://github.com/puellulae/itv/tree/main)
 <h3> 宜昌电信IPTV </h3>
 
 |  分 组  |  链接                                                                          |  备 注  |
