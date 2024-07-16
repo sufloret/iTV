@@ -24,7 +24,7 @@
 
 <meta content="IE=edge" http-equiv="X-UA-Compatible" />
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="C2a91z8kMNorjsC4kOAhnBL1438FL+WzJAkwasKUhqUBXrhOBEervvGh+wmJ4aNHfmdeB5BFYKH087tjxEEp5g==" />
+<meta name="csrf-token" content="9Gi+O9/sInf2fQVRMFoBixk1z0dphivxQgmTnVB36LVMcAwKOsjTkOrR2dE82ODJs+q+tG2erswMp0nJpaIhrg==" />
 
 <link rel="stylesheet" media="all" href="https://cn-assets.gitee.com/assets/application-b429676c43f961d3dfb9a62b92d7e148.css" />
 <script>
@@ -60,9 +60,9 @@ window.gon = {};gon.locale="zh-CN";gon.sentry_dsn=null;gon.baidu_register_hm_pus
     wx.config({
       debug: false,
       appId: "wxff219d611a159737",
-      timestamp: "1721126475",
-      nonceStr: "d8af2818a273ebcb524d8f974b6492c1",
-      signature: "e15d937f5ed76209873103194cd8e3dbee6c1563",
+      timestamp: "1721126584",
+      nonceStr: "b40257199a3aaba820fb453089c72e5d",
+      signature: "fe947a92c4467a44daecafd824619c8ade1553e6",
       jsApiList: [
         'onMenuShareTimeline',
         'onMenuShareAppMessage'
@@ -271,7 +271,7 @@ MathJax.Hub.Config({
 </h2>
 </div>
 <div class='session-sidebox__content'>
-<div class="session-sidebox-content__container"> <div class="session-sidebox-comments__header"> <span class="session-sidebox-comments__title">王安</span> <span class="session-sidebox-comments__position">DCloud CEO</span> </div> <div class="session-sidebox-comments__content">不少国内的好产品，因为用户的迷外心理而不被重视。其实一个友好的中文界面，可以让用户快速掌握软件的所有功能，实实在在地提升效率。期待更多开发者能重视 Gitee，重视国内认真做事的产品团队，他们会给你惊喜。</div> </div>
+<div class="session-sidebox-content__container"> <div class="session-sidebox-comments__header"> <span class="session-sidebox-comments__title">阮一峰</span> <span class="session-sidebox-comments__position">知名技术博主</span> </div> <div class="session-sidebox-comments__content">Gitee 是国内代码托管服务的领先者，很认真的产品。适合国内程序员习惯，访问速度极快。</div> </div>
 </div>
 <div class='session-sidebox__footer'>
 <a target="_blank" sa_evt="click_GiteeCommunity_login_GiteeEnhot" href="/enterprises?from=login"><strong class='session-sidebox__icon-hot'>Gitee 企业版</strong>
@@ -296,7 +296,7 @@ MathJax.Hub.Config({
 <div class='session__flash-error'>
 <div class='ui message error flash_error flash_error_box'></div>
 </div>
-<form class="ui custom form session__control session-login__form session-login__with-password " data-need-verify="false" data-control="password" data-encrypt="true" data-key="password" id="new_user" action="/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="nYID7ycZL55NkBV5qrWpZO/ndpABRWBbnqzzrm9OppiXugZ2HHq0+pe/LsiztCu/g3XL6JQv5UlOVninaZsJ2w==" /><input type="hidden" name="redirect_to_url" id="redirect_to_url" value="/Black_crow/xmlgz/raw/master/all.xml" />
+<form class="ui custom form session__control session-login__form session-login__with-password " data-need-verify="false" data-control="password" data-encrypt="true" data-key="password" id="new_user" action="/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FwFFW2R426QxIod4eakXpUJTiHDHKpQFywSnN1qfToqvGfdqgVwqQy2OW/h1K/bn6Iz5g8MyETiFqn1jr0qHkQ==" /><input type="hidden" name="redirect_to_url" id="redirect_to_url" value="/Black_crow/xmlgz/raw/master/all.xml" />
 <div class='session-login__body'>
 <div class='session-form__fields'>
 <div class='git-login-form-fields'>
@@ -325,7 +325,7 @@ MathJax.Hub.Config({
 </div>
 </form>
 
-<form class="ui custom form session__control session-login__form session-login__with-phone hide" data-control="phone" id="new_user" action="/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VZV+DtogwkHFjmsFJkBDOaEdHfwvGF18GQurFaGn3eNfrXuX4UNZJR+hULQ/QcHizY+ghLpy2G7J8SAcp3JyoA==" /><input value="sms" type="hidden" name="user[login_type]" id="user_login_type" />
+<form class="ui custom form session__control session-login__form session-login__with-phone hide" data-control="phone" id="new_user" action="/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="K4uiPzibOBM3UB5cR2BKWu/YnZ1GVs+cNVCMhRgzTv2TkxAO3b/J9Cv8wtxL4qsYRQfsbkJOSqF7/lbR7eaH5g==" /><input value="sms" type="hidden" name="user[login_type]" id="user_login_type" />
 <input type="hidden" name="redirect_to_url" id="redirect_to_url" value="/Black_crow/xmlgz/raw/master/all.xml" />
 <input class='placeholder__autofill-text'>
 <div class='field'>
