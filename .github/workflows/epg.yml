@@ -1,4 +1,5 @@
-name: EPG Update
+name: EPG
+
 on:
   push:
   schedule:
