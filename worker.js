@@ -1,5 +1,5 @@
 const Config = {
-    repository: 'live.fanmingming.com'
+    repository: 'live.puellulae.com'
 };
 
 async function jq_fetch(request) {
@@ -33,7 +33,7 @@ function formatDateTime(time = '') {
 
 async function diypHandle(channel, date, request) {
     const tag = date.replace(/-/g, '.');
-    const res = await jq_fetch(new Request(`https://github.com/celetor/epg/releases/download/${tag}/112114.json`, request));
+    const res = await jq_fetch(new Request(`https://github.com/celetor/epg/releases/download/${tag}/erw.json`, request));
     const data = await res.json();
 
     const program_info = {
