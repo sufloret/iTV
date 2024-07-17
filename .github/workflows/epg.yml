@@ -1,9 +1,7 @@
 name: EPG
-
 on:
   push:
   schedule:
-    - cron: 0 4,10,22 * * *
     - cron: 39 15,16 * * *
   workflow_dispatch:
 
