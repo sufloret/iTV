@@ -24,6 +24,6 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git add e.xml
-        git commit -m "Update"
+        git commit -m "EPG Automatic Update."
     - name: Push changes
       run: git push -f origin main
