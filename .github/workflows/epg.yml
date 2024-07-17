@@ -12,7 +12,6 @@ permissions:
 
 env:
   GITHUB_TOKEN: ${{ secrets.GIT_CLONE_TOKEN }}
-  now_time: $(date -u -d '+8 hour' '+%Y-%m-%d %H:%M:%S')
 
 jobs:
   build:
@@ -21,6 +20,8 @@ jobs:
     - uses: actions/checkout@v3
     - name: Update EPG Files
       run: |
+        now_time=$(date -u -d '+8 hour' '+%Y-%m-%d %H:%M:%S')
+        echo "now_time=$now_time" >> $GITHUB_ENV
         rm -f e.xml && wget https://gitee.com/Black_crow/xmlgz/raw/master/e.xml -O e.xml
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
