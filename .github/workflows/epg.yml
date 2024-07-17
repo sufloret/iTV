@@ -8,9 +8,6 @@ on:
 permissions:
   contents: write
 
-env:
-  GITHUB_TOKEN: ${{ secrets.GIT_CLONE_TOKEN }}
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,3 +22,6 @@ jobs:
         git commit -m "EPG Automatic Update."
     - name: Push changes
       run: git push -f origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
