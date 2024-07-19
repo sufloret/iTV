@@ -2,8 +2,8 @@ name: EPG
 on:
   push:
   schedule:
-    - cron: 39 15,20 * * *
- # workflow_dispatch:
+    - cron: 39 15 * * *
+  # workflow_dispatch:
 
 permissions:
   contents: write
