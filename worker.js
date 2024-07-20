@@ -1,5 +1,5 @@
 const Config = {
-    repository: 'live.fanmingming.com'
+    repository: 'live.puellulae.com'
 };
 
 async function jq_fetch(request) {
