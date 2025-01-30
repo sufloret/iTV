@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://live.puellulae.com/e.xml"
-#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" tvg-logo="https://live.puellulae.com/signs/湖北卫视.png" group-title="湖北",湖北卫视
+#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" tvg-logo="https://live.puellulae.com/signs/湖北卫视.png" group-title="",湖北卫视
 http://27.18.146.120:4022/rtp/239.254.96.115:8664
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.puellulae.com/signs/CCTV1.png" group-title="央视",CCTV1
-https://tvpull.careryun.com/tv/cctv1.m3u8
+http://120.76.248.139/live/bfgd/4200000488.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.puellulae.com/signs/CCTV2.png" group-title="央视",CCTV2
 https://tvpull.careryun.com/tv/cctv2.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://live.puellulae.com/signs/CCTV3.png" group-title="央视",CCTV3
