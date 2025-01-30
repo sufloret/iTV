@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.puellulae.com/e.xml"
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://live.puellulae.com/signs/湖北卫视.png" group-title="",湖北卫视
-http://27.18.146.120:4022/rtp/239.254.96.115:8664
+http://183.207.248.71/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://live.puellulae.com/signs/CCTV1.png" group-title="央视",CCTV1
 http://120.76.248.139/live/bfgd/4200000488.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://live.puellulae.com/signs/CCTV2.png" group-title="央视",CCTV2
@@ -34,7 +34,7 @@ http://120.76.248.139/live/bfgd/4200000133.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://live.puellulae.com/signs/CCTV16.png" group-title="央视",CCTV16
 https://tvpull.careryun.com/tv/cctv16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://live.puellulae.com/signs/CCTV17.png" group-title="央视",CCTV17
-https://tvpull.careryun.com/tv/cctv17.m3u8
+http://120.76.248.139/live/bfgd/4200000204.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5十" tvg-logo="https://live.puellulae.com/signs/CCTV5+.png" group-title="央视",CCTV5十
 https://tvpull.careryun.com/tv/cctv5+.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://live.puellulae.com/signs/CCTV4K.png" group-title="央视",CCTV4K
