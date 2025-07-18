@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://live.puellulae.com/e.xml"
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://live.puellulae.com/signs/湖北卫视.png" group-title="",湖北卫视
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://live.puellulae.com/signs/CCTV1.png" group-title="央视",CCTV1
 http://120.76.248.139/live/bfgd/4200000488.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://live.puellulae.com/signs/CCTV2.png" group-title="央视",CCTV2
