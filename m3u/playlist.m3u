@@ -1,0 +1,295 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视",CCTV1HD
+rtp://239.253.152.96:8550
+#EXTINF:-1 group-title="央视",CCTV2HD
+rtp://239.69.1.102:10250
+#EXTINF:-1 group-title="央视",CCTV3HD
+rtp://239.69.1.122:10370
+#EXTINF:-1 group-title="央视",CCTV4HD
+rtp://239.69.1.138:10466
+#EXTINF:-1 group-title="央视",CCTV5HD
+rtp://239.69.1.123:10376
+#EXTINF:-1 group-title="央视",CCTV6HD
+rtp://239.69.1.124:10382
+#EXTINF:-1 group-title="央视",CCTV7HD
+rtp://239.69.1.103:10256
+#EXTINF:-1 group-title="央视",CCTV8HD
+rtp://239.69.1.125:10388
+#EXTINF:-1 group-title="央视",CCTV9HD
+rtp://239.69.1.104:10262
+#EXTINF:-1 group-title="央视",CCTV10HD
+rtp://239.69.1.105:10268
+#EXTINF:-1 group-title="央视",CCTV11HD
+rtp://239.69.1.154:10560
+#EXTINF:-1 group-title="央视",CCTV12HD
+rtp://239.69.1.106:10274
+#EXTINF:-1 group-title="央视",CCTV13HD
+rtp://239.253.152.161:9040
+#EXTINF:-1 group-title="央视",CCTV14HD
+rtp://239.69.1.107:10280
+#EXTINF:-1 group-title="央视",CCTV15HD
+rtp://239.69.1.155:10566
+#EXTINF:-1 group-title="央视",CCTV16HD
+rtp://239.69.1.247:11124
+#EXTINF:-1 group-title="央视",CCTV17HD
+rtp://239.69.1.152:10548
+#EXTINF:-1 group-title="央视",CCTV5十HD
+rtp://239.253.152.234:9484
+#EXTINF:-1 group-title="央视",CCTV4K
+rtp://239.69.1.111:10304
+#EXTINF:-1 group-title="央视",CCTV164K
+rtp://239.69.1.249:11136
+#EXTINF:-1 group-title="央视",CCTV4中文国际欧洲HD
+rtp://239.69.1.231:11028
+#EXTINF:-1 group-title="央视",CCTV4中文国际美洲HD
+rtp://239.69.1.232:11034
+#EXTINF:-1 group-title="央视",CGTN英文纪录HD
+rtp://239.69.1.233:11040
+#EXTINF:-1 group-title="央视",CGTN西班牙语HD
+rtp://239.69.1.234:11046
+#EXTINF:-1 group-title="央视",CGTN法语HD
+rtp://239.69.1.235:11052
+#EXTINF:-1 group-title="央视",CGTN阿拉伯语HD
+rtp://239.69.1.221:10968
+#EXTINF:-1 group-title="央视",CGTN俄语HD
+rtp://239.69.1.222:10974
+#EXTINF:-1 group-title="央视",CGTN英语HD
+rtp://239.253.152.175:9124
+#EXTINF:-1 group-title="湖北",湖北卫视HD
+rtp://239.253.152.115:8664
+#EXTINF:-1 group-title="湖北",湖北经视HD
+rtp://239.69.1.41:9886
+#EXTINF:-1 group-title="湖北",湖北综合HD
+rtp://239.69.1.42:9892
+#EXTINF:-1 group-title="湖北",湖北垄上HD
+rtp://239.69.1.43:9898
+#EXTINF:-1 group-title="湖北",湖北公共HD
+rtp://239.69.1.40:9880
+#EXTINF:-1 group-title="湖北",湖北影视HD
+rtp://239.69.1.204:10866
+#EXTINF:-1 group-title="湖北",湖北教育HD
+rtp://239.69.1.206:10878
+#EXTINF:-1 group-title="湖北",湖北生活HD
+rtp://239.69.1.205:10872
+#EXTINF:-1 group-title="湖北",黄石阳新新闻HD
+rtp://239.69.1.34:9844
+#EXTINF:-1 group-title="湖北",宜昌综合HD
+rtp://239.69.1.67:10042
+#EXTINF:-1 group-title="湖北",宜昌旅游生活HD
+rtp://239.69.1.75:10090
+#EXTINF:-1 group-title="湖北",宜昌夷陵综合HD
+rtp://239.69.1.238:11070
+#EXTINF:-1 group-title="湖北",宜昌当阳综合
+rtp://239.69.1.9:9694
+#EXTINF:-1 group-title="湖北",宜昌秭归新闻综合HD
+rtp://239.69.1.239:11076
+#EXTINF:-1 group-title="湖北",宜昌长阳综合HD
+rtp://239.69.1.246:11118
+#EXTINF:-1 group-title="湖北",宜昌枝江综合HD
+rtp://239.69.1.240:11082
+#EXTINF:-1 group-title="湖北",宜昌兴山综合HD
+rtp://239.69.1.250:11142
+#EXTINF:-1 group-title="湖北",远安综合HD
+rtp://239.69.1.101:10244
+#EXTINF:-1 group-title="湖北",宜昌五峰综合HD
+rtp://239.69.1.38:9868
+#EXTINF:-1 group-title="卫视",凤凰中文HD
+rtp://239.69.2.20:11274
+#EXTINF:-1 group-title="卫视",凤凰资讯HD
+rtp://239.69.2.19:11268
+#EXTINF:-1 group-title="卫视",湖南卫视HD
+rtp://239.253.152.139:8908
+#EXTINF:-1 group-title="卫视",浙江卫视HD
+rtp://239.253.152.143:8932
+#EXTINF:-1 group-title="卫视",江苏卫视HD
+rtp://239.253.152.144:8938
+#EXTINF:-1 group-title="卫视",东方卫视HD
+rtp://239.253.152.142:8926
+#EXTINF:-1 group-title="卫视",北京卫视HD
+rtp://239.253.152.141:8920
+#EXTINF:-1 group-title="卫视",广东卫视HD
+rtp://239.253.152.140:8914
+#EXTINF:-1 group-title="卫视",深圳卫视HD
+rtp://239.253.152.137:8896
+#EXTINF:-1 group-title="卫视",黑龙江卫视HD
+rtp://239.253.152.138:8902
+#EXTINF:-1 group-title="卫视",天津卫视HD
+rtp://239.69.1.68:10048
+#EXTINF:-1 group-title="卫视",山东卫视HD
+rtp://239.69.1.69:10054
+#EXTINF:-1 group-title="卫视",安徽卫视HD
+rtp://239.69.1.70:10060
+#EXTINF:-1 group-title="卫视",辽宁卫视HD
+rtp://239.69.1.71:10066
+#EXTINF:-1 group-title="卫视",东南卫视HD
+rtp://239.69.1.108:10286
+#EXTINF:-1 group-title="卫视",江西卫视HD
+rtp://239.69.1.126:10394
+#EXTINF:-1 group-title="卫视",重庆卫视HD
+rtp://239.69.1.149:10530
+#EXTINF:-1 group-title="卫视",贵州卫视HD
+rtp://239.69.1.150:10536
+#EXTINF:-1 group-title="卫视",河南卫视HD
+rtp://239.69.1.168:10644
+#EXTINF:-1 group-title="卫视",四川卫视HD
+rtp://239.69.1.169:10650
+#EXTINF:-1 group-title="卫视",河北卫视HD
+rtp://239.69.1.157:10578
+#EXTINF:-1 group-title="卫视",海南卫视HD
+rtp://239.69.1.151:10542
+#EXTINF:-1 group-title="卫视",广西卫视HD
+rtp://239.69.1.191:10788
+#EXTINF:-1 group-title="卫视",吉林卫视HD
+rtp://239.69.1.212:10914
+#EXTINF:-1 group-title="卫视",甘肃卫视HD
+rtp://239.69.2.23:11292
+#EXTINF:-1 group-title="卫视",青海卫视HD
+rtp://239.69.2.24:11298
+#EXTINF:-1 group-title="卫视",云南卫视HD
+rtp://239.69.2.25:11304
+#EXTINF:-1 group-title="卫视",新疆卫视HD
+rtp://239.69.2.30:11334
+#EXTINF:-1 group-title="卫视",西藏卫视HD
+rtp://239.69.2.31:11340
+#EXTINF:-1 group-title="卫视",兵团卫视HD
+rtp://239.69.2.32:11346
+#EXTINF:-1 group-title="卫视",宁夏卫视HD
+rtp://239.69.2.33:11352
+#EXTINF:-1 group-title="卫视",山西卫视HD
+rtp://239.69.2.41:11400
+#EXTINF:-1 group-title="卫视",陕西卫视HD
+rtp://239.69.2.42:11406
+#EXTINF:-1 group-title="卫视",内蒙古卫视HD
+rtp://239.69.2.43:11412
+#EXTINF:-1 group-title="卫视",三沙卫视
+rtp://239.69.1.171:10662
+#EXTINF:-1 group-title="卫视",厦门卫视
+rtp://239.69.1.127:10400
+#EXTINF:-1 group-title="卫视",湖南卫视4K
+rtp://239.69.2.34:11358
+#EXTINF:-1 group-title="卫视",浙江卫视4K
+rtp://239.69.2.35:11364
+#EXTINF:-1 group-title="卫视",江苏卫视4K
+rtp://239.69.2.36:11370
+#EXTINF:-1 group-title="卫视",北京卫视4K
+rtp://239.69.2.22:11286
+#EXTINF:-1 group-title="卫视",广东卫视4K
+rtp://239.69.2.27:11316
+#EXTINF:-1 group-title="卫视",深圳卫视4K
+rtp://239.69.2.28:11322
+#EXTINF:-1 group-title="卫视",东方卫视4K
+rtp://239.69.2.37:11376
+#EXTINF:-1 group-title="卫视",山东卫视4K
+rtp://239.69.2.38:11382
+#EXTINF:-1 group-title="卫视",四川卫视4K
+rtp://239.69.2.39:11388
+#EXTINF:-1 group-title="特色",CHC家庭影院HD
+rtp://239.69.1.243:11100
+#EXTINF:-1 group-title="特色",CHC动作电影HD
+rtp://239.69.1.242:11094
+#EXTINF:-1 group-title="特色",CHC影迷电影HD
+rtp://239.69.1.241:11088
+#EXTINF:-1 group-title="特色",第一剧场HD
+rtp://239.69.1.74:10084
+#EXTINF:-1 group-title="特色",都市剧场HD
+rtp://239.69.2.4:11178
+#EXTINF:-1 group-title="特色",怀旧剧场HD
+rtp://239.69.1.89:10174
+#EXTINF:-1 group-title="特色",欢笑剧场4K
+rtp://239.69.2.5:11184
+#EXTINF:-1 group-title="特色",动漫秀场HD
+rtp://239.69.2.6:11190
+#EXTINF:-1 group-title="特色",新动漫
+rtp://239.69.1.187:10764
+#EXTINF:-1 group-title="特色",电视指南HD
+rtp://239.69.1.87:10162
+#EXTINF:-1 group-title="特色",央视台球HD
+rtp://239.69.1.98:10224
+#EXTINF:-1 group-title="特色",风云足球HD
+rtp://239.69.1.81:10126
+#EXTINF:-1 group-title="特色",高尔夫网球HD
+rtp://239.69.1.83:10138
+#EXTINF:-1 group-title="特色",四海钓鱼HD
+rtp://239.69.1.244:11106
+#EXTINF:-1 group-title="特色",快乐垂钓HD
+rtp://239.69.1.142:10488
+#EXTINF:-1 group-title="特色",游戏风云HD
+rtp://239.69.2.8:11202
+#EXTINF:-1 group-title="特色",武术世界HD
+rtp://239.69.1.47:9922
+#EXTINF:-1 group-title="特色",汽摩
+rtp://239.69.1.84:10144
+#EXTINF:-1 group-title="特色",东方财经HD
+rtp://239.69.2.9:11208
+#EXTINF:-1 group-title="特色",法治天地HD
+rtp://239.69.2.10:11214
+#EXTINF:-1 group-title="特色",生活时尚HD
+rtp://239.69.2.11:11220
+#EXTINF:-1 group-title="特色",乐游HD
+rtp://239.69.2.12:11226
+#EXTINF:-1 group-title="特色",金色学堂HD
+rtp://239.69.2.13:11232
+#EXTINF:-1 group-title="特色",兵器科技HD
+rtp://239.69.1.79:10114
+#EXTINF:-1 group-title="特色",世界地理HD
+rtp://239.69.1.91:10186
+#EXTINF:-1 group-title="特色",梨园HD
+rtp://239.69.1.33:9838
+#EXTINF:-1 group-title="特色",文物宝库HD
+rtp://239.69.1.46:9916
+#EXTINF:-1 group-title="特色",书画
+rtp://239.69.1.189:10776
+#EXTINF:-1 group-title="特色",女性时尚HD
+rtp://239.69.1.86:10156
+#EXTINF:-1 group-title="特色",风云音乐HD
+rtp://239.69.1.90:10180
+#EXTINF:-1 group-title="特色",老故事
+rtp://239.69.1.85:10150
+#EXTINF:-1 group-title="专业",央广购物HD
+rtp://239.69.2.1:11160
+#EXTINF:-1 group-title="专业",聚鲨环球精选
+rtp://239.69.2.14:11238
+#EXTINF:-1 group-title="专业",优购物
+rtp://239.69.2.15:11244
+#EXTINF:-1 group-title="专业",卡酷少儿HD
+rtp://239.69.1.193:10800
+#EXTINF:-1 group-title="专业",金鹰卡通HD
+rtp://239.69.1.248:11130
+#EXTINF:-1 group-title="专业",金鹰纪实HD
+rtp://239.69.1.109:10292
+#EXTINF:-1 group-title="专业",中国教育1HD
+rtp://239.69.1.110:10298
+#EXTINF:-1 group-title="专业",中国教育4HD
+rtp://239.69.2.29:11328
+#EXTINF:-1 group-title="专业",中国教育2
+rtp://239.69.1.183:10734
+#EXTINF:-1 group-title="专业",山东教育卫视
+rtp://239.69.1.228:11010
+#EXTINF:-1 group-title="专业",环球奇观
+rtp://239.253.152.192:9232
+#EXTINF:-1 group-title="专业",国学频道
+rtp://239.253.152.194:9244
+#EXTINF:-1 group-title="其他",九屏导视HD
+rtp://239.69.1.156:10572
+#EXTINF:-1 group-title="其他",iTV导视HD
+rtp://239.69.1.65:10030
+#EXTINF:-1 group-title="其他",芒果1
+rtp://239.69.1.12:9712
+#EXTINF:-1 group-title="其他",芒果2
+rtp://239.69.1.13:9718
+#EXTINF:-1 group-title="其他",看吧1
+rtp://239.69.2.44:11418
+#EXTINF:-1 group-title="其他",看吧2
+rtp://239.69.2.45:11424
+#EXTINF:-1 group-title="其他",看吧3
+rtp://239.69.2.46:11430
+#EXTINF:-1 group-title="其他",看吧4
+rtp://239.69.2.47:11436
+#EXTINF:-1 group-title="其他",看吧5
+rtp://239.69.2.48:11442
+#EXTINF:-1 group-title="其他",看吧6
+rtp://239.69.2.49:11448
+#EXTINF:-1 group-title="其他",看吧7
+rtp://239.69.2.50:11454
+#EXTINF:-1 group-title="其他",看吧8
+rtp://239.69.2.51:11460
