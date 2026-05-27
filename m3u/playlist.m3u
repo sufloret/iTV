@@ -155,13 +155,13 @@ rtp://239.69.2.39:11388
 rtp://239.69.1.231:11028
 #EXTINF:-1 tvg-id="CCTV4AME" group-title="央视",CCTV4中文国际美洲HD
 rtp://239.69.1.232:11034
-#EXTINF:-1 tvg-id="CGTN英文纪录" group-title="央视",CGTN英文纪录HD
+#EXTINF:-1 tvg-id="CGTN纪录" group-title="央视",CGTN英文纪录HD
 rtp://239.69.1.233:11040
-#EXTINF:-1 tvg-id="CGTN西班牙语" group-title="央视",CGTN西班牙语HD
+#EXTINF:-1 tvg-id="CGTN西语" group-title="央视",CGTN西班牙语HD
 rtp://239.69.1.234:11046
 #EXTINF:-1 tvg-id="CGTN法语" group-title="央视",CGTN法语HD
 rtp://239.69.1.235:11052
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" group-title="央视",CGTN阿拉伯语HD
+#EXTINF:-1 tvg-id="CGTN阿语" group-title="央视",CGTN阿拉伯语HD
 rtp://239.69.1.221:10968
 #EXTINF:-1 tvg-id="CGTN俄语" group-title="央视",CGTN俄语HD
 rtp://239.69.1.222:10974
@@ -251,21 +251,21 @@ rtp://239.69.1.85:10150
 rtp://239.69.1.67:10042
 #EXTINF:-1 tvg-id="宜昌旅游生活" group-title="湖北",宜昌旅游生活HD
 rtp://239.69.1.75:10090
-#EXTINF:-1 tvg-id="宜昌夷陵综合" group-title="湖北",宜昌夷陵综合HD
+#EXTINF:-1 tvg-id="夷陵综合" group-title="湖北",宜昌夷陵综合HD
 rtp://239.69.1.238:11070
-#EXTINF:-1 tvg-id="宜昌当阳综合" group-title="湖北",宜昌当阳综合
+#EXTINF:-1 tvg-id="当阳综合" group-title="湖北",宜昌当阳综合
 rtp://239.69.1.9:9694
-#EXTINF:-1 tvg-id="宜昌秭归新闻综合" group-title="湖北",宜昌秭归新闻综合HD
+#EXTINF:-1 tvg-id="秭归融媒" group-title="湖北",宜昌秭归新闻综合HD
 rtp://239.69.1.239:11076
-#EXTINF:-1 tvg-id="宜昌长阳综合" group-title="湖北",宜昌长阳综合HD
+#EXTINF:-1 tvg-id="长阳综合" group-title="湖北",宜昌长阳综合HD
 rtp://239.69.1.246:11118
-#EXTINF:-1 tvg-id="宜昌枝江综合" group-title="湖北",宜昌枝江综合HD
+#EXTINF:-1 tvg-id="枝江综合" group-title="湖北",宜昌枝江综合HD
 rtp://239.69.1.240:11082
-#EXTINF:-1 tvg-id="宜昌枝江综合" group-title="湖北",宜昌兴山综合HD
+#EXTINF:-1 tvg-id="兴山综合" group-title="湖北",宜昌兴山综合HD
 rtp://239.69.1.250:11142
-#EXTINF:-1 tvg-id="远安综合" group-title="湖北",远安综合HD
+#EXTINF:-1 tvg-id="远安融媒" group-title="湖北",远安综合HD
 rtp://239.69.1.101:10244
-#EXTINF:-1 tvg-id="宜昌五峰综合" group-title="湖北",宜昌五峰综合HD
+#EXTINF:-1 tvg-id="五峰综合" group-title="湖北",宜昌五峰综合HD
 rtp://239.69.1.38:9868
-#EXTINF:-1 tvg-id="黄石阳新新闻" group-title="湖北",黄石阳新新闻HD
+#EXTINF:-1 tvg-id="阳新综合" group-title="湖北",黄石阳新新闻HD
 rtp://239.69.1.34:9844
