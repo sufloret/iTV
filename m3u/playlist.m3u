@@ -1,271 +1,271 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="1" group-title="央视",CCTV-1HD
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"  url-logos="https://live.siumae.com/signs/"
+#EXTINF:-1 tvg-id="CCTV1" group-title="央视",CCTV-1HD
 rtp://239.253.152.96:8550
-#EXTINF:-1 tvg-id="2" group-title="央视",CCTV-2HD
+#EXTINF:-1 tvg-id="CCTV2" group-title="央视",CCTV-2HD
 rtp://239.69.1.102:10250
-#EXTINF:-1 tvg-id="3" group-title="央视",CCTV-3HD
+#EXTINF:-1 tvg-id="CCTV3" group-title="央视",CCTV-3HD
 rtp://239.69.1.122:10370
-#EXTINF:-1 tvg-id="4" group-title="央视",CCTV-4HD
+#EXTINF:-1 tvg-id="CCTV4" group-title="央视",CCTV-4HD
 rtp://239.69.1.138:10466
-#EXTINF:-1 tvg-id="5" group-title="央视",CCTV-5HD
+#EXTINF:-1 tvg-id="CCTV5" group-title="央视",CCTV-5HD
 rtp://239.69.1.123:10376
-#EXTINF:-1 tvg-id="6" group-title="央视",CCTV-6HD
+#EXTINF:-1 tvg-id="CCTV6" group-title="央视",CCTV-6HD
 rtp://239.69.1.124:10382
-#EXTINF:-1 tvg-id="7" group-title="央视",CCTV-7HD
+#EXTINF:-1 tvg-id="CCTV7" group-title="央视",CCTV-7HD
 rtp://239.69.1.103:10256
-#EXTINF:-1 tvg-id="8" group-title="央视",CCTV-8HD
+#EXTINF:-1 tvg-id="CCTV8" group-title="央视",CCTV-8HD
 rtp://239.69.1.125:10388
-#EXTINF:-1 tvg-id="9" group-title="央视",CCTV-9HD
+#EXTINF:-1 tvg-id="CCTV9" group-title="央视",CCTV-9HD
 rtp://239.69.1.104:10262
-#EXTINF:-1 tvg-id="10" group-title="央视",CCTV-10HD
+#EXTINF:-1 tvg-id="CCTV10" group-title="央视",CCTV-10HD
 rtp://239.69.1.105:10268
-#EXTINF:-1 tvg-id="11" group-title="央视",CCTV-11HD
+#EXTINF:-1 tvg-id="CCTV11" group-title="央视",CCTV-11HD
 rtp://239.69.1.154:10560
-#EXTINF:-1 tvg-id="12" group-title="央视",CCTV-12HD
+#EXTINF:-1 tvg-id="CCTV12" group-title="央视",CCTV-12HD
 rtp://239.69.1.106:10274
-#EXTINF:-1 tvg-id="13" group-title="央视",CCTV-13HD
+#EXTINF:-1 tvg-id="CCTV13" group-title="央视",CCTV-13HD
 rtp://239.253.152.161:9040
-#EXTINF:-1 tvg-id="14" group-title="央视",CCTV-14HD
+#EXTINF:-1 tvg-id="CCTV14" group-title="央视",CCTV-14HD
 rtp://239.69.1.107:10280
-#EXTINF:-1 tvg-id="15" group-title="央视",CCTV-15HD
+#EXTINF:-1 tvg-id="CCTV15" group-title="央视",CCTV-15HD
 rtp://239.69.1.155:10566
-#EXTINF:-1 tvg-id="16" group-title="央视",CCTV-16HD
+#EXTINF:-1 tvg-id="CCTV16" group-title="央视",CCTV-16HD
 rtp://239.69.1.247:11124
-#EXTINF:-1 tvg-id="17" group-title="央视",CCTV-17HD
+#EXTINF:-1 tvg-id="CCTV17" group-title="央视",CCTV-17HD
 rtp://239.69.1.152:10548
-#EXTINF:-1 tvg-id="18" group-title="央视",CCTV-5+HD
+#EXTINF:-1 tvg-id="CCTV5+" group-title="央视",CCTV-5+HD
 rtp://239.253.152.234:9484
-#EXTINF:-1 tvg-id="19" group-title="央视",CCTV-4K
+#EXTINF:-1 tvg-id="CCTV-4K" group-title="央视",CCTV-4K
 rtp://239.69.1.111:10304
-#EXTINF:-1 tvg-id="20" group-title="央视",CCTV16-4K
+#EXTINF:-1 tvg-id="CCTV16-4K" group-title="央视",CCTV16-4K
 rtp://239.69.1.249:11136
-#EXTINF:-1 tvg-id="21" group-title="湖北",湖北卫视HD
+#EXTINF:-1 tvg-id="湖北卫视" group-title="湖北",湖北卫视HD
 rtp://239.253.152.115:8664
-#EXTINF:-1 tvg-id="22" group-title="湖北",湖北经视HD
+#EXTINF:-1 tvg-id="湖北经视" group-title="湖北",湖北经视HD
 rtp://239.69.1.41:9886
-#EXTINF:-1 tvg-id="23" group-title="湖北",湖北综合HD
+#EXTINF:-1 tvg-id="湖北综合" group-title="湖北",湖北综合HD
 rtp://239.69.1.42:9892
-#EXTINF:-1 tvg-id="24" group-title="湖北",湖北垄上HD
+#EXTINF:-1 tvg-id="湖北垄上" group-title="湖北",湖北垄上HD
 rtp://239.69.1.43:9898
-#EXTINF:-1 tvg-id="25" group-title="湖北",湖北公共HD
+#EXTINF:-1 tvg-id="湖北公共" group-title="湖北",湖北公共HD
 rtp://239.69.1.40:9880
-#EXTINF:-1 tvg-id="26" group-title="湖北",湖北影视HD
+#EXTINF:-1 tvg-id="湖北影视" group-title="湖北",湖北影视HD
 rtp://239.69.1.204:10866
-#EXTINF:-1 tvg-id="27" group-title="湖北",湖北教育HD
+#EXTINF:-1 tvg-id="湖北教育" group-title="湖北",湖北教育HD
 rtp://239.69.1.206:10878
-#EXTINF:-1 tvg-id="28" group-title="湖北",湖北生活HD
+#EXTINF:-1 tvg-id="湖北生活" group-title="湖北",湖北生活HD
 rtp://239.69.1.205:10872
-#EXTINF:-1 tvg-id="37" group-title="专业",央广购物HD
+#EXTINF:-1 tvg-id="央广购物" group-title="专业",央广购物HD
 rtp://239.69.2.1:11160
-#EXTINF:-1 tvg-id="38" group-title="专业",聚鲨环球精选
+#EXTINF:-1 tvg-id="聚鲨环球精选" group-title="专业",聚鲨环球精选
 rtp://239.69.2.14:11238
-#EXTINF:-1 tvg-id="39" group-title="专业",优购物
+#EXTINF:-1 tvg-id="优购物" group-title="专业",优购物
 rtp://239.69.2.15:11244
-#EXTINF:-1 tvg-id="41" group-title="卫视",湖南卫视HD
+#EXTINF:-1 tvg-id="湖南卫视" group-title="卫视",湖南卫视HD
 rtp://239.253.152.139:8908
-#EXTINF:-1 tvg-id="42" group-title="卫视",浙江卫视HD
+#EXTINF:-1 tvg-id="浙江卫视" group-title="卫视",浙江卫视HD
 rtp://239.253.152.143:8932
-#EXTINF:-1 tvg-id="43" group-title="卫视",江苏卫视HD
+#EXTINF:-1 tvg-id="江苏卫视" group-title="卫视",江苏卫视HD
 rtp://239.253.152.144:8938
-#EXTINF:-1 tvg-id="44" group-title="卫视",东方卫视HD
+#EXTINF:-1 tvg-id="东方卫视" group-title="卫视",东方卫视HD
 rtp://239.253.152.142:8926
-#EXTINF:-1 tvg-id="45" group-title="卫视",北京卫视HD
+#EXTINF:-1 tvg-id="北京卫视" group-title="卫视",北京卫视HD
 rtp://239.253.152.141:8920
-#EXTINF:-1 tvg-id="46" group-title="卫视",广东卫视HD
+#EXTINF:-1 tvg-id="广东卫视" group-title="卫视",广东卫视HD
 rtp://239.253.152.140:8914
-#EXTINF:-1 tvg-id="47" group-title="卫视",深圳卫视HD
+#EXTINF:-1 tvg-id="深圳卫视" group-title="卫视",深圳卫视HD
 rtp://239.253.152.137:8896
-#EXTINF:-1 tvg-id="48" group-title="卫视",黑龙江卫视HD
+#EXTINF:-1 tvg-id="黑龙江卫视" group-title="卫视",黑龙江卫视HD
 rtp://239.253.152.138:8902
-#EXTINF:-1 tvg-id="49" group-title="卫视",天津卫视HD
+#EXTINF:-1 tvg-id="天津卫视" group-title="卫视",天津卫视HD
 rtp://239.69.1.68:10048
-#EXTINF:-1 tvg-id="50" group-title="卫视",山东卫视HD
+#EXTINF:-1 tvg-id="山东卫视" group-title="卫视",山东卫视HD
 rtp://239.69.1.69:10054
-#EXTINF:-1 tvg-id="51" group-title="卫视",安徽卫视HD
+#EXTINF:-1 tvg-id="安徽卫视" group-title="卫视",安徽卫视HD
 rtp://239.69.1.70:10060
-#EXTINF:-1 tvg-id="52" group-title="卫视",辽宁卫视HD
+#EXTINF:-1 tvg-id="辽宁卫视" group-title="卫视",辽宁卫视HD
 rtp://239.69.1.71:10066
-#EXTINF:-1 tvg-id="53" group-title="卫视",东南卫视HD
+#EXTINF:-1 tvg-id="东南卫视" group-title="卫视",东南卫视HD
 rtp://239.69.1.108:10286
-#EXTINF:-1 tvg-id="54" group-title="卫视",江西卫视HD
+#EXTINF:-1 tvg-id="江西卫视" group-title="卫视",江西卫视HD
 rtp://239.69.1.126:10394
-#EXTINF:-1 tvg-id="55" group-title="卫视",重庆卫视HD
+#EXTINF:-1 tvg-id="重庆卫视" group-title="卫视",重庆卫视HD
 rtp://239.69.1.149:10530
-#EXTINF:-1 tvg-id="56" group-title="卫视",贵州卫视HD
+#EXTINF:-1 tvg-id="贵州卫" group-title="卫视",贵州卫视HD
 rtp://239.69.1.150:10536
-#EXTINF:-1 tvg-id="57" group-title="卫视",河南卫视HD
+#EXTINF:-1 tvg-id="河南卫视" group-title="卫视",河南卫视HD
 rtp://239.69.1.168:10644
-#EXTINF:-1 tvg-id="58" group-title="卫视",四川卫视HD
+#EXTINF:-1 tvg-id="四川卫视" group-title="卫视",四川卫视HD
 rtp://239.69.1.169:10650
-#EXTINF:-1 tvg-id="59" group-title="卫视",河北卫视HD
+#EXTINF:-1 tvg-id="河北卫视" group-title="卫视",河北卫视HD
 rtp://239.69.1.157:10578
-#EXTINF:-1 tvg-id="60" group-title="卫视",海南卫视HD
+#EXTINF:-1 tvg-id="海南卫视" group-title="卫视",海南卫视HD
 rtp://239.69.1.151:10542
-#EXTINF:-1 tvg-id="61" group-title="卫视",广西卫视HD
+#EXTINF:-1 tvg-id="广西卫视" group-title="卫视",广西卫视HD
 rtp://239.69.1.191:10788
-#EXTINF:-1 tvg-id="62" group-title="卫视",吉林卫视HD
+#EXTINF:-1 tvg-id="吉林卫视" group-title="卫视",吉林卫视HD
 rtp://239.69.1.212:10914
-#EXTINF:-1 tvg-id="63" group-title="卫视",甘肃卫视HD
+#EXTINF:-1 tvg-id="甘肃卫视" group-title="卫视",甘肃卫视HD
 rtp://239.69.2.23:11292
-#EXTINF:-1 tvg-id="64" group-title="卫视",青海卫视HD
+#EXTINF:-1 tvg-id="青海卫视" group-title="卫视",青海卫视HD
 rtp://239.69.2.24:11298
-#EXTINF:-1 tvg-id="65" group-title="卫视",云南卫视HD
+#EXTINF:-1 tvg-id="云南卫视" group-title="卫视",云南卫视HD
 rtp://239.69.2.25:11304
-#EXTINF:-1 tvg-id="66" group-title="卫视",新疆卫视HD
+#EXTINF:-1 tvg-id="新疆卫视" group-title="卫视",新疆卫视HD
 rtp://239.69.2.30:11334
-#EXTINF:-1 tvg-id="67" group-title="卫视",西藏卫视HD
+#EXTINF:-1 tvg-id="西藏卫视" group-title="卫视",西藏卫视HD
 rtp://239.69.2.31:11340
-#EXTINF:-1 tvg-id="68" group-title="卫视",兵团卫视HD
+#EXTINF:-1 tvg-id="兵团卫视" group-title="卫视",兵团卫视HD
 rtp://239.69.2.32:11346
-#EXTINF:-1 tvg-id="69" group-title="卫视",宁夏卫视HD
+#EXTINF:-1 tvg-id="宁夏卫视" group-title="卫视",宁夏卫视HD
 rtp://239.69.2.33:11352
-#EXTINF:-1 tvg-id="70" group-title="卫视",山西卫视HD
+#EXTINF:-1 tvg-id="山西卫视" group-title="卫视",山西卫视HD
 rtp://239.69.2.41:11400
-#EXTINF:-1 tvg-id="71" group-title="卫视",陕西卫视HD
+#EXTINF:-1 tvg-id="陕西卫视" group-title="卫视",陕西卫视HD
 rtp://239.69.2.42:11406
-#EXTINF:-1 tvg-id="72" group-title="卫视",内蒙古卫视HD
+#EXTINF:-1 tvg-id="内蒙古卫视" group-title="卫视",内蒙古卫视HD
 rtp://239.69.2.43:11412
-#EXTINF:-1 tvg-id="73" group-title="卫视",三沙卫视
+#EXTINF:-1 tvg-id="三沙卫视" group-title="卫视",三沙卫视
 rtp://239.69.1.171:10662
-#EXTINF:-1 tvg-id="74" group-title="卫视",厦门卫视
+#EXTINF:-1 tvg-id="厦门卫视" group-title="卫视",厦门卫视
 rtp://239.69.1.127:10400
-#EXTINF:-1 tvg-id="75" group-title="卫视",凤凰中文HD
+#EXTINF:-1 tvg-id="凤凰中文" group-title="卫视",凤凰中文HD
 rtp://239.69.2.20:11274
-#EXTINF:-1 tvg-id="76" group-title="卫视",凤凰资讯HD
+#EXTINF:-1 tvg-id="凤凰资讯" group-title="卫视",凤凰资讯HD
 rtp://239.69.2.19:11268
-#EXTINF:-1 tvg-id="81" group-title="卫视",湖南卫视4K
+#EXTINF:-1 tvg-id="湖南卫视" group-title="卫视",湖南卫视4K
 rtp://239.69.2.34:11358
-#EXTINF:-1 tvg-id="82" group-title="卫视",浙江卫视4K
+#EXTINF:-1 tvg-id="浙江卫视" group-title="卫视",浙江卫视4K
 rtp://239.69.2.35:11364
-#EXTINF:-1 tvg-id="83" group-title="卫视",江苏卫视4K
+#EXTINF:-1 tvg-id="江苏卫视" group-title="卫视",江苏卫视4K
 rtp://239.69.2.36:11370
-#EXTINF:-1 tvg-id="84" group-title="卫视",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视" group-title="卫视",北京卫视4K
 rtp://239.69.2.22:11286
-#EXTINF:-1 tvg-id="85" group-title="卫视",广东卫视4K
+#EXTINF:-1 tvg-id="广东卫视" group-title="卫视",广东卫视4K
 rtp://239.69.2.27:11316
-#EXTINF:-1 tvg-id="86" group-title="卫视",深圳卫视4K
+#EXTINF:-1 tvg-id="深圳卫视" group-title="卫视",深圳卫视4K
 rtp://239.69.2.28:11322
-#EXTINF:-1 tvg-id="87" group-title="卫视",东方卫视4K
+#EXTINF:-1 tvg-id="东方卫视" group-title="卫视",东方卫视4K
 rtp://239.69.2.37:11376
-#EXTINF:-1 tvg-id="88" group-title="卫视",山东卫视4K
+#EXTINF:-1 tvg-id="山东卫视" group-title="卫视",山东卫视4K
 rtp://239.69.2.38:11382
-#EXTINF:-1 tvg-id="89" group-title="卫视",四川卫视4K
+#EXTINF:-1 tvg-id="四川卫视" group-title="卫视",四川卫视4K
 rtp://239.69.2.39:11388
-#EXTINF:-1 tvg-id="201" group-title="央视",CCTV4中文国际欧洲HD
+#EXTINF:-1 tvg-id="CCTV4中文国际欧洲" group-title="央视",CCTV4中文国际欧洲HD
 rtp://239.69.1.231:11028
-#EXTINF:-1 tvg-id="202" group-title="央视",CCTV4中文国际美洲HD
+#EXTINF:-1 tvg-id="CCTV4中文国际美洲" group-title="央视",CCTV4中文国际美洲HD
 rtp://239.69.1.232:11034
-#EXTINF:-1 tvg-id="203" group-title="央视",CGTN英文纪录HD
+#EXTINF:-1 tvg-id="CGTN英文纪录" group-title="央视",CGTN英文纪录HD
 rtp://239.69.1.233:11040
-#EXTINF:-1 tvg-id="204" group-title="央视",CGTN西班牙语HD
+#EXTINF:-1 tvg-id="CGTN西班牙语" group-title="央视",CGTN西班牙语HD
 rtp://239.69.1.234:11046
-#EXTINF:-1 tvg-id="205" group-title="央视",CGTN法语HD
+#EXTINF:-1 tvg-id="CGTN法语" group-title="央视",CGTN法语HD
 rtp://239.69.1.235:11052
-#EXTINF:-1 tvg-id="206" group-title="央视",CGTN阿拉伯语HD
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" group-title="央视",CGTN阿拉伯语HD
 rtp://239.69.1.221:10968
-#EXTINF:-1 tvg-id="207" group-title="央视",CGTN俄语HD
+#EXTINF:-1 tvg-id="CGTN俄语" group-title="央视",CGTN俄语HD
 rtp://239.69.1.222:10974
-#EXTINF:-1 tvg-id="208" group-title="央视",CGTN英语HD
+#EXTINF:-1 tvg-id="CGTN英语" group-title="央视",CGTN英语HD
 rtp://239.253.152.175:9124
-#EXTINF:-1 tvg-id="209" group-title="专业",卡酷少儿HD
+#EXTINF:-1 tvg-id="卡酷少儿" group-title="专业",卡酷少儿HD
 rtp://239.69.1.193:10800
-#EXTINF:-1 tvg-id="210" group-title="专业",金鹰卡通HD
+#EXTINF:-1 tvg-id="金鹰卡通" group-title="专业",金鹰卡通HD
 rtp://239.69.1.248:11130
-#EXTINF:-1 tvg-id="211" group-title="专业",金鹰纪实HD
+#EXTINF:-1 tvg-id="金鹰纪实" group-title="专业",金鹰纪实HD
 rtp://239.69.1.109:10292
-#EXTINF:-1 tvg-id="212" group-title="专业",中国教育-1HD
+#EXTINF:-1 tvg-id="中国教育1" group-title="专业",中国教育-1HD
 rtp://239.69.1.110:10298
-#EXTINF:-1 tvg-id="213" group-title="专业",中国教育-4HD
+#EXTINF:-1 tvg-id="中国教育4" group-title="专业",中国教育-4HD
 rtp://239.69.2.29:11328
-#EXTINF:-1 tvg-id="214" group-title="专业",中国教育-2
+#EXTINF:-1 tvg-id="中国教育2" group-title="专业",中国教育-2
 rtp://239.69.1.183:10734
-#EXTINF:-1 tvg-id="215" group-title="专业",山东教育卫视
+#EXTINF:-1 tvg-id="山东教育卫视" group-title="专业",山东教育卫视
 rtp://239.69.1.228:11010
-#EXTINF:-1 tvg-id="216" group-title="专业",环球奇观
+#EXTINF:-1 tvg-id="环球奇观" group-title="专业",环球奇观
 rtp://239.253.152.192:9232
-#EXTINF:-1 tvg-id="217" group-title="专业",国学频道
+#EXTINF:-1 tvg-id="国学频道" group-title="专业",国学频道
 rtp://239.253.152.194:9244
-#EXTINF:-1 tvg-id="301" group-title="特色",CHC家庭影院HD
+#EXTINF:-1 tvg-id="CHC家庭影院" group-title="特色",CHC家庭影院HD
 rtp://239.69.1.243:11100
-#EXTINF:-1 tvg-id="302" group-title="特色",CHC动作电影HD
+#EXTINF:-1 tvg-id="CHC动作电影" group-title="特色",CHC动作电影HD
 rtp://239.69.1.242:11094
-#EXTINF:-1 tvg-id="303" group-title="特色",CHC影迷电影HD
+#EXTINF:-1 tvg-id="CHC影迷电影" group-title="特色",CHC影迷电影HD
 rtp://239.69.1.241:11088
-#EXTINF:-1 tvg-id="304" group-title="特色",第一剧场HD
+#EXTINF:-1 tvg-id="第一剧场" group-title="特色",第一剧场HD
 rtp://239.69.1.74:10084
-#EXTINF:-1 tvg-id="305" group-title="特色",都市剧场HD
+#EXTINF:-1 tvg-id="都市剧场" group-title="特色",都市剧场HD
 rtp://239.69.2.4:11178
-#EXTINF:-1 tvg-id="306" group-title="特色",怀旧剧场HD
+#EXTINF:-1 tvg-id="怀旧剧场" group-title="特色",怀旧剧场HD
 rtp://239.69.1.89:10174
-#EXTINF:-1 tvg-id="307" group-title="特色",欢笑剧场-4K
+#EXTINF:-1 tvg-id="欢笑剧场" group-title="特色",欢笑剧场-4K
 rtp://239.69.2.5:11184
-#EXTINF:-1 tvg-id="308" group-title="特色",动漫秀场HD
+#EXTINF:-1 tvg-id="动漫秀场" group-title="特色",动漫秀场HD
 rtp://239.69.2.6:11190
-#EXTINF:-1 tvg-id="309" group-title="特色",新动漫
+#EXTINF:-1 tvg-id="新动漫" group-title="特色",新动漫
 rtp://239.69.1.187:10764
-#EXTINF:-1 tvg-id="310" group-title="特色",电视指南HD
+#EXTINF:-1 tvg-id="电视指南" group-title="特色",电视指南HD
 rtp://239.69.1.87:10162
-#EXTINF:-1 tvg-id="351" group-title="特色",央视台球HD
+#EXTINF:-1 tvg-id="央视台球" group-title="特色",央视台球HD
 rtp://239.69.1.98:10224
-#EXTINF:-1 tvg-id="352" group-title="特色",风云足球HD
+#EXTINF:-1 tvg-id="风云足球" group-title="特色",风云足球HD
 rtp://239.69.1.81:10126
-#EXTINF:-1 tvg-id="354" group-title="特色",高尔夫网球HD
+#EXTINF:-1 tvg-id="高尔夫网球" group-title="特色",高尔夫网球HD
 rtp://239.69.1.83:10138
-#EXTINF:-1 tvg-id="356" group-title="特色",四海钓鱼HD
+#EXTINF:-1 tvg-id="四海钓鱼" group-title="特色",四海钓鱼HD
 rtp://239.69.1.244:11106
-#EXTINF:-1 tvg-id="357" group-title="特色",快乐垂钓HD
+#EXTINF:-1 tvg-id="快乐垂钓" group-title="特色",快乐垂钓HD
 rtp://239.69.1.142:10488
-#EXTINF:-1 tvg-id="358" group-title="特色",游戏风云HD
+#EXTINF:-1 tvg-id="游戏风云" group-title="特色",游戏风云HD
 rtp://239.69.2.8:11202
-#EXTINF:-1 tvg-id="359" group-title="特色",武术世界HD
+#EXTINF:-1 tvg-id="武术世界" group-title="特色",武术世界HD
 rtp://239.69.1.47:9922
-#EXTINF:-1 tvg-id="360" group-title="特色",汽摩
+#EXTINF:-1 tvg-id="汽摩" group-title="特色",汽摩
 rtp://239.69.1.84:10144
-#EXTINF:-1 tvg-id="401" group-title="特色",东方财经HD
+#EXTINF:-1 tvg-id="东方财经" group-title="特色",东方财经HD
 rtp://239.69.2.9:11208
-#EXTINF:-1 tvg-id="402" group-title="特色",法治天地HD
+#EXTINF:-1 tvg-id="法治天地" group-title="特色",法治天地HD
 rtp://239.69.2.10:11214
-#EXTINF:-1 tvg-id="403" group-title="特色",生活时尚HD
+#EXTINF:-1 tvg-id="生活时尚" group-title="特色",生活时尚HD
 rtp://239.69.2.11:11220
-#EXTINF:-1 tvg-id="404" group-title="特色",乐游HD
+#EXTINF:-1 tvg-id="乐游" group-title="特色",乐游HD
 rtp://239.69.2.12:11226
-#EXTINF:-1 tvg-id="405" group-title="特色",金色学堂HD
+#EXTINF:-1 tvg-id="金色学堂" group-title="特色",金色学堂HD
 rtp://239.69.2.13:11232
-#EXTINF:-1 tvg-id="406" group-title="特色",兵器科技HD
+#EXTINF:-1 tvg-id="兵器科技" group-title="特色",兵器科技HD
 rtp://239.69.1.79:10114
-#EXTINF:-1 tvg-id="407" group-title="特色",世界地理HD
+#EXTINF:-1 tvg-id="世界地理" group-title="特色",世界地理HD
 rtp://239.69.1.91:10186
-#EXTINF:-1 tvg-id="408" group-title="特色",梨园HD
+#EXTINF:-1 tvg-id="梨园" group-title="特色",梨园HD
 rtp://239.69.1.33:9838
-#EXTINF:-1 tvg-id="409" group-title="特色",文物宝库HD
+#EXTINF:-1 tvg-id="文物宝库" group-title="特色",文物宝库HD
 rtp://239.69.1.46:9916
-#EXTINF:-1 tvg-id="410" group-title="特色",书画
+#EXTINF:-1 tvg-id="书画" group-title="特色",书画
 rtp://239.69.1.189:10776
-#EXTINF:-1 tvg-id="412" group-title="特色",女性时尚HD
+#EXTINF:-1 tvg-id="女性时尚" group-title="特色",女性时尚HD
 rtp://239.69.1.86:10156
-#EXTINF:-1 tvg-id="413" group-title="特色",风云音乐HD
+#EXTINF:-1 tvg-id="风云音乐" group-title="特色",风云音乐HD
 rtp://239.69.1.90:10180
-#EXTINF:-1 tvg-id="414" group-title="特色",老故事
+#EXTINF:-1 tvg-id="老故事" group-title="特色",老故事
 rtp://239.69.1.85:10150
-#EXTINF:-1 tvg-id="524" group-title="湖北",宜昌综合HD
+#EXTINF:-1 tvg-id="宜昌综合" group-title="湖北",宜昌综合HD
 rtp://239.69.1.67:10042
-#EXTINF:-1 tvg-id="525" group-title="湖北",宜昌旅游生活HD
+#EXTINF:-1 tvg-id="宜昌旅游生活" group-title="湖北",宜昌旅游生活HD
 rtp://239.69.1.75:10090
-#EXTINF:-1 tvg-id="1232" group-title="湖北",宜昌夷陵综合HD
+#EXTINF:-1 tvg-id="宜昌夷陵综合" group-title="湖北",宜昌夷陵综合HD
 rtp://239.69.1.238:11070
-#EXTINF:-1 tvg-id="1233" group-title="湖北",宜昌当阳综合
+#EXTINF:-1 tvg-id="宜昌当阳综合" group-title="湖北",宜昌当阳综合
 rtp://239.69.1.9:9694
-#EXTINF:-1 tvg-id="1234" group-title="湖北",宜昌秭归新闻综合HD
+#EXTINF:-1 tvg-id="宜昌秭归新闻综合" group-title="湖北",宜昌秭归新闻综合HD
 rtp://239.69.1.239:11076
-#EXTINF:-1 tvg-id="1235" group-title="湖北",宜昌长阳综合HD
+#EXTINF:-1 tvg-id="宜昌长阳综合" group-title="湖北",宜昌长阳综合HD
 rtp://239.69.1.246:11118
-#EXTINF:-1 tvg-id="1236" group-title="湖北",宜昌枝江综合HD
+#EXTINF:-1 tvg-id="宜昌枝江综合" group-title="湖北",宜昌枝江综合HD
 rtp://239.69.1.240:11082
-#EXTINF:-1 tvg-id="1237" group-title="湖北",宜昌兴山综合HD
+#EXTINF:-1 tvg-id="宜昌枝江综合" group-title="湖北",宜昌兴山综合HD
 rtp://239.69.1.250:11142
-#EXTINF:-1 tvg-id="1238" group-title="湖北",远安综合HD
+#EXTINF:-1 tvg-id="远安综合" group-title="湖北",远安综合HD
 rtp://239.69.1.101:10244
-#EXTINF:-1 tvg-id="1239" group-title="湖北",宜昌五峰综合HD
+#EXTINF:-1 tvg-id="宜昌五峰综合" group-title="湖北",宜昌五峰综合HD
 rtp://239.69.1.38:9868
-#EXTINF:-1 tvg-id="1240" group-title="湖北",黄石阳新新闻HD
+#EXTINF:-1 tvg-id="黄石阳新新闻" group-title="湖北",黄石阳新新闻HD
 rtp://239.69.1.34:9844
