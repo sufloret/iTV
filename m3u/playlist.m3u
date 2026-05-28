@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"  url-logos="https://live.siumae.com/signs/"
+#EXTM3U name="湖北电信IPTV" url-logos="https://live.siumae.com/logo/" x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz" 
 #EXTINF:-1 tvg-id="CCTV1" group-title="央视",CCTV-1HD
 rtp://239.253.152.96:8550
 #EXTINF:-1 tvg-id="CCTV2" group-title="央视",CCTV-2HD
