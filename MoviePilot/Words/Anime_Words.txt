@@ -1,0 +1,22 @@
+# 斗破苍穹
+斗破苍穹(.*)年番 => 斗破苍穹{[tmdbid=79481;type=tv;s=05]}
+# 诛仙
+^(.*)Jade(.*)Dynasty(.*)20\d{2}+(?=.*QHstudIo) => 诛仙{[tmdbid=206484;type=tv]}
+\[诛仙(.*)第一季\] => 诛仙.S01{[tmdbid=206484;type=tv]}
+\[诛仙(.*)第二季\] => 诛仙.S02{[tmdbid=206484;type=tv]}
+\[诛仙(.*)第三季\] => 诛仙.S03{[tmdbid=206484;type=tv]}
+# 仙剑奇侠传叁
+仙剑奇侠传三(?=.*ADWeb) => 仙剑奇侠传叁{[tmdbid=233295;type=tv]}
+# 吞噬星空
+(?<=Swallowed.Star.S07.*?)2026 => 2020
+(?<=Swallowed.Star.S06.*?)2025 => 2020
+(?<=Swallowed.Star.S05.*?)2024 => 2020
+(?<=Swallowed.Star.S04.*?)2023 => 2020
+(?<=Swallowed.Star.S03.*?)2022 => 2020
+(?<=Swallowed.Star.S02.*?)2021 => 2020
+Swallowed.Star.S07(?=.*ADWeb) => Swallowed.Star.S01
+Swallowed.Star.S06(?=.*ADWeb) => Swallowed.Star.S01
+Swallowed.Star.S05(?=.*ADWeb) => Swallowed.Star.S01
+Swallowed.Star.S04(?=.*ADWeb) => Swallowed.Star.S01 && S01 <> 2020 >> EP+85
+吞噬星空(.*)Swallowed.Star.S03(?=.*ADWeb) => 吞噬星空.Swallowed.Star.S01
+吞噬星空(.*)Swallowed.Star.S02(?=.*ADWeb) => 吞噬星空.Swallowed.Star.S01
