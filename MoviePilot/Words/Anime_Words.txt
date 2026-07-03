@@ -21,4 +21,4 @@ Swallowed.Star.S04(?=.*ADWeb) => Swallowed.Star.S01 && S01 <> 2020 >> EP+85
 吞噬星空(.*)Swallowed.Star.S03(?=.*ADWeb) => 吞噬星空.Swallowed.Star.S01
 吞噬星空(.*)Swallowed.Star.S02(?=.*ADWeb) => 吞噬星空.Swallowed.Star.S01
 # 云深不知梦 特别篇
-(.*)Eclipse(.*)of(.*)Illusion(.*)SP(.*)The(.*)Miasma(.*)War(.*)S01(?=.+ADWeb) => Eclipse of Illusion S00
+Eclipse(.*)of(.*)Illusion(.*)SP(.*)The(.*)Miasma(.*)War(.*)S01(?=.+ADWeb) => Eclipse of Illusion S00
