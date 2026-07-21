@@ -7,6 +7,12 @@
 \[诛仙(.*)第三季\] => 诛仙.S03{[tmdbid=206484;type=tv]}
 # 仙剑奇侠传叁
 仙剑奇侠传三(?=.*ADWeb) => 仙剑奇侠传叁{[tmdbid=233295;type=tv]}
+# 武动乾坤
+(?<=Martial.Universe.S06.*?)2025 => 2019
+(?<=Martial.Universe.S05.*?)2025 => 2019
+(?<=Martial.Universe.S04.*?)2023 => 2019
+(?<=Martial.Universe.S03.*?)2022 => 2019
+(?<=Martial.Universe.S02.*?)2020 => 2019
 # 吞噬星空
 (?<=Swallowed.Star.S07.*?)2026 => 2020
 (?<=Swallowed.Star.S06.*?)2025 => 2020
