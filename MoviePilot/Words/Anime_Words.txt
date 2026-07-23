@@ -12,7 +12,7 @@
 (?<=Martial.Universe.S05.*?)2025 => 2019
 (?<=Martial.Universe.S04.*?)2023 => 2019
 (?<=Martial.Universe.S03.*?)2022 => 2019
-(?<=Martial.Universe.S02.*?)2020 => 2019
+(?<=Martial.Universe.S02.*?)2020 => 2019 && S02 <> 2019 >> EP-12
 # 吞噬星空
 (?<=Swallowed.Star.S07.*?)2026 => 2020
 (?<=Swallowed.Star.S06.*?)2025 => 2020
