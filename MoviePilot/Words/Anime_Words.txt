@@ -1,7 +1,7 @@
 # 斗破苍穹
 斗破苍穹(.*)年番 => 斗破苍穹{[tmdbid=79481;type=tv;s=05]}
 # 斗罗大陆Ⅱ绝世唐门
-Soul.Land.S02 => Soul.Land.II.The.Unrivaled.Tang.S01
+Soul.Land.S02(?=.*ADWeb) => Soul.Land.2.The.Peerless.Tang.Clan.S01
 斗罗大陆.Soul.Land.S02 => 斗罗大陆Ⅱ绝世唐门.Soul.Land.II.The.Unrivaled.Tang.S01
 # 诛仙
 ^(.*)Jade(.*)Dynasty(.*)20\d{2}+(?=.*QHstudIo) => 诛仙{[tmdbid=206484;type=tv]}
