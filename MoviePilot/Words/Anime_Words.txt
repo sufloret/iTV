@@ -32,3 +32,10 @@ Swallowed.Star.S04(?=.*ADWeb) => Swallowed.Star.S01 && S01 <> 2020 >> EP+85
 # 云深不知梦 特别篇
 云深不知梦.特别篇：逐冥之役.Eclipse.of.Illusion.SP.The.Miasma.War.S01(?=.+ADWeb) => 云深不知梦.Eclipse.of.Illusion.S00
 Eclipse of Illusion SP The Miasma War S01(?=.+ADWeb) => Eclipse of Illusion S00
+# 一念永恒
+(?<=A.Will.Eternal.S04.*?)2026 => 2020
+(?<=A.Will.Eternal.S03.*?)2024 => 2020
+(?<=A.Will.Eternal.S02.*?)2022 => 2020
+A.Will.Eternal.S04(?=.*ADWeb) => A.Will.Eternal.S01 && S01 <> 2020 >> EP+165
+A.Will.Eternal.S03(?=.*ADWeb) => A.Will.Eternal.S01 && S01 <> 2020 >> EP+106
+A.Will.Eternal.S02(?=.*ADWeb) => A.Will.Eternal.S01 && S01 <> 2020 >> EP+52
