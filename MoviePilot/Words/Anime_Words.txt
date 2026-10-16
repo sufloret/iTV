@@ -74,3 +74,5 @@ Naruto.2002.S01E(59[3-9]|60\d|61[0-3]) => Naruto.Shippuuden.2007.S18E\1
 Naruto.2002.S01E(61[4-9]|62\d|63[0-3]) => Naruto.Shippuuden.2007.S19E\1
 Naruto.2002.S01E(63[4-9]|6[4-9]\d|7[0-1]\d|720) => Naruto.Shippuuden.2007.S20E\1
 Naruto.2002.S01E(63[4-9]|6[4-9]\d|7[0-1]\d|720) => Naruto.Shippūden.2007.S20E\1
+云深不知梦.特别篇：逐冥之役.Eclipse.of.Illusion.SP.The.Miasma.War.S01(?=.+ADWeb) => 云深不知梦.Eclipse.of.Illusion.S00
+Eclipse of Illusion SP The Miasma War S01(?=.+ADWeb) => Eclipse of Illusion S00
