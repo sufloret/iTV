@@ -8,6 +8,7 @@ Soul.Land.S02 => Soul.Land.2.The.Peerless.Tang.Clan.S01
 \[诛仙(.*)第一季\] => 诛仙.S01{[tmdbid=206484;type=tv]}
 \[诛仙(.*)第二季\] => 诛仙.S02{[tmdbid=206484;type=tv]}
 \[诛仙(.*)第三季\] => 诛仙.S03{[tmdbid=206484;type=tv]}
+诛仙.*最终季.* => 诛仙.S04{[tmdbid=206484;type=tv]}
 # 仙剑奇侠传叁
 仙剑奇侠传三(?=.*ADWeb) => 仙剑奇侠传叁{[tmdbid=233295;type=tv]}
 # 武动乾坤
@@ -74,3 +75,4 @@ Naruto.2002.S01E(63[4-9]|6[4-9]\d|7[0-1]\d|720) => Naruto.Shippuuden.2007.S20E\1
 Naruto.2002.S01E(63[4-9]|6[4-9]\d|7[0-1]\d|720) => Naruto.Shippūden.2007.S20E\1
 云深不知梦.特别篇：逐冥之役.Eclipse.of.Illusion.SP.The.Miasma.War.S01(?=.+ADWeb) => 云深不知梦.Eclipse.of.Illusion.S00
 Eclipse of Illusion SP The Miasma War S01(?=.+ADWeb) => Eclipse of Illusion S00
+沧元图 => 沧元图{[tmdbid=229192;type=tv]}
