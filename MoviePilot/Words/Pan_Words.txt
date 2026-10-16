@@ -18,8 +18,3 @@
 魅影神捕 => 魅影神捕{[tmdbid=290699;type=tv]}
 遮天 => 遮天{[tmdbid=224839;type=tv]}
 猎冰 => 猎冰{[tmdbid=233958;type=tv]}
-
-# ── 网盘转存专用：从 Anime/TV 词表迁入 ──
-诛仙.*最终季.* => 诛仙.S04{[tmdbid=206484;type=tv]}
-沧元图 => 沧元图{[tmdbid=229192;type=tv]}
-玉簟秋 => 玉簟秋{[tmdbid=304452;type=tv]}
