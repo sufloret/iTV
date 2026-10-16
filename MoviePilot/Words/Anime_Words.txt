@@ -44,7 +44,6 @@ A.Will.Eternal.S02(?=.*ADWeb) => A.Will.Eternal.S01 && S01 <> 2020 >> EP+52
 #狐妖小红娘 黄风岭篇 → 合季进主条目 75787 的 S01（黄风岭篇 = 主系列 168~183 集）
 狐妖小红娘(.*)黄风岭篇 => 狐妖小红娘{[tmdbid=75787;type=tv]}
 #沧元图2/3（TMDB 与第 1 季同一条目 229192，单季连载中）
-沧元图 => 沧元图{[tmdbid=229192;type=tv]}
 #大主宰 年番2（TMDB 单季合辑 226045，单季 104 集）
 大主宰(.*)年番\s*(?:第)?[2二]\s*(?:季|部)? => 大主宰{[tmdbid=226045;type=tv]}
 
@@ -76,3 +75,4 @@ Naruto.2002.S01E(63[4-9]|6[4-9]\d|7[0-1]\d|720) => Naruto.Shippuuden.2007.S20E\1
 Naruto.2002.S01E(63[4-9]|6[4-9]\d|7[0-1]\d|720) => Naruto.Shippūden.2007.S20E\1
 云深不知梦.特别篇：逐冥之役.Eclipse.of.Illusion.SP.The.Miasma.War.S01(?=.+ADWeb) => 云深不知梦.Eclipse.of.Illusion.S00
 Eclipse of Illusion SP The Miasma War S01(?=.+ADWeb) => Eclipse of Illusion S00
+沧元图 => 沧元图{[tmdbid=229192;type=tv]}
