@@ -48,8 +48,8 @@
 牧神记 => 牧神记{[tmdbid=236534;type=tv]}
 吞噬星空 => 吞噬星空{[tmdbid=101172;type=tv]}
 师兄啊师兄 => 师兄啊师兄{[tmdbid=218642;type=tv]}
-斗破苍穹 => 斗破苍穹{[tmdbid=79481;type=tv]}
 斗破苍穹(.*)年番 => 斗破苍穹{[tmdbid=79481;type=tv;s=05]}
+斗破苍穹 => 斗破苍穹{[tmdbid=79481;type=tv]}
 一念永恒 => 一念永恒{[tmdbid=107371;type=tv]}
 一斩苍穹 => 一斩苍穹{[tmdbid=303287;type=tv]}
 灵境行者 => 灵境行者{[tmdbid=297923;type=tv]}
