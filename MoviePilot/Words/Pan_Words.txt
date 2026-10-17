@@ -53,3 +53,5 @@
 一念永恒 => 一念永恒{[tmdbid=107371;type=tv]}
 一斩苍穹 => 一斩苍穹{[tmdbid=303287;type=tv]}
 灵境行者 => 灵境行者{[tmdbid=297923;type=tv]}
+大王饶命\s*3 => 大王饶命{[tmdbid=146339;type=tv;s=03]}
+大理寺日志\s*3 => 大理寺日志{[tmdbid=97878;type=tv;s=03]}
