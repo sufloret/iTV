@@ -1,0 +1,17 @@
+# 长相思
+An(.*)AllConsuming(.*)Love => 长相思{[tmdbid=210524;type=tv]}
+# 边水往事
+Escape(.*)from(.*)the(.*)Trilateral(.*)Slopes => 边水往事{[tmdbid=252636;type=tv]}
+# 三体
+三体(.*)周年纪念版 => 三体·周年纪念版{[tmdbid=270728;type=tv]}
+Three-Body(.*)Anniversary(.*)Edition => 三体·周年纪念版{[tmdbid=270728;type=tv]}
+# 庆余年
+\[庆余年(.*)特别版\](.*)S01(?=.*QHstudIo) => 庆余年.S00{[tmdbid=95842;type=tv]}
+Joy(.*)of(.*)Life(.*)Special(.*)Edition(.*)S01(?=.*QHstudIo) => 庆余年.S00{[tmdbid=95842;type=tv]}
+# 莲花楼
+Mysterious(.*)Lotus(.*)Casebook => 莲花楼{[tmdbid=230835;type=tv]}
+# 琅琊榜
+Nirvana(.*)In(.*)Fire(.*)Ⅱ => 琅琊榜.S02{[tmdbid=64197;type=tv;s=2]}
+琅琊榜之风起长林 => 琅琊榜.S02{[tmdbid=64197;type=tv;s=2]}
+# 灵魂摆渡·十年
+灵魂摆渡(.*)S05 => 灵魂摆渡·十年.S01{[tmdbid=289147;type=tv]}
